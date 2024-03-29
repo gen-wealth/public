@@ -13,7 +13,7 @@
   "lang.zh": "Chino",
 
   "navBar.menu1": "Nuestro Servicio",
-  "navBar.menu2": "Hoja de Ruta",
+  "navBar.menu2": "Plan de Acción",
   "navBar.menu3": "Sobre Nosotros",
   "navBar.menu4": "Contáctanos",
 
@@ -23,7 +23,7 @@
 
   "pageMap.menu1": "Nuestro Servicio",
   "pageMap.menu1.sub1": "Cómo Funciona",
-  "pageMap.menu2": "Hoja de Ruta",
+  "pageMap.menu2": "Plan de Acción",
   "pageMap.menu3": "Sobre Nosotros",
   "pageMap.menu3.sub1": "Conoce al Equipo",
   "pageMap.menu4": "Contáctanos",
@@ -33,10 +33,10 @@
   "sideBar.actionSecondary": "Ver las documentaciones",
 
   "ourService.title": "Nuestro Servicio",
-  "ourService.p1": "Billones de dólares en activos de criptomonedas se han perdido debido a la falta de soluciones para recuperar los activos bloqueados en billeteras después de que sus propietarios han fallecido. Ofrecemos una solución {secure} y {trustless} que le permite transmitir sus activos a sus seres queridos.",
+  "ourService.p1": "Billones de dólares en activos de criptomonedas se han perdido debido a la falta de soluciones para recuperar los activos bloqueados en billeteras después de que sus propietarios han fallecido. Ofrecemos una solución {secure} y {trustless} que te permite transmitir tus activos a tus seres queridos.",
 
   "howItWorks.title": "Cómo Funciona",
-  "howItWorks.p1": "Nuestra DApp te permite crear {vaults}. Una vault es un conjunto de contratos inteligentes donde tienes control total sobre su contenido, similar a una billetera de auto custodia. Además, dentro de la vault, puedes definir reglas para la distribución de activos al pasar. Al crear una vault, recibirás una dirección única, una {vaultKey}, y establecerás un {deadline}. Este deadline puede ser extendido periódicamente para confirmar tu presencia continua, una característica a la que nos referimos como {proofOfLife}. Poseer un token de vault-key en tu billetera te permite retirar activos de la vault en cualquier momento, independientemente del deadline.",
+  "howItWorks.p1": "Nuestra DApp te permite crear {vaults}. Una caja fuerte es un conjunto de contratos inteligentes donde tienes control total sobre su contenido, similar a una billetera de auto custodia. Además, dentro de la caja fuerte, puedes definir reglas para la distribución de activos. Al crear una caja fuerte, recibirás una dirección única, una {vaultKey}, y establecerás un {deadline}. Este deadline puede ser extendido periódicamente para confirmar tu presencia continua, una característica a la que nos referimos como {proofOfLife}. Poseer un token de vault-key en tu billetera te permite retirar activos de la vault en cualquier momento, independientemente del deadline.",
   "howItWorks.p2": "Dentro de tu vault, puedes crear subdivisiones llamadas {pockets} donde asignas tus activos de herencia entre ellas. Luego, puedes acuñar los {pocketKeys} asociados para enviarlos a los beneficiarios. Son estos tokens de pocket key los que les permiten reclamar su parte de los activos de los pockets respectivos una vez que no puedas demostrar que sigues vivo, lo cual ocurre solo después de que haya pasado por completo la deadline del vault.",
   "howItWorks.p3": "Con esta DApp, tus activos de criptomonedas pueden ser reclamados por las personas que selecciones después de que te hayas ido de manera trustless. Ahora, puedes almacenar tus activos de criptomonedas con más tranquilidad porque ya no necesitas confiar tu frase semilla a un tercero. Tu vault actúa verdaderamente como una billetera de auto custodia, pero con capacidades adicionales.",
   "howItWorks.p4": "GenWealth es el primer protocolo de herencia en {cardano}, planeamos expandir nuestro servicio a otras blockchains en el futuro. Para obtener más información sobre cómo funcionan nuestros contratos inteligentes, puedes leer la documentación del código {here}.",
@@ -96,21 +96,21 @@
   "callToAction.action1": "Abrir aplicación",
   "callToAction.action2": "Ver las documentaciones",
 
-  "secure": "secure",
-  "trustless": "trustless",
+  "secure": "secura",
+  "trustless": "sin la necesidad de intermediarios ni confianza",
 
-  "vault": "vault",
-  "vaults": "vaults",
-  "vaultKey": "vault key",
-  "vaultKeys": "vault keys",
+  "vault": "caja fuerte",
+  "vaults": "cajas fuertes",
+  "vaultKey": "llave de la caja fuerte",
+  "vaultKeys": "llaves de la caja fuerte",
 
-  "pocket": "pocket",
-  "pockets": "pockets",
-  "pocketKey": "pocket key",
-  "pocketKeys": "pocket keys",
+  "pocket": "bolsillo",
+  "pockets": "bolsillos",
+  "pocketKey": "llave de bolsillo",
+  "pocketKeys": "llaves de bolsillos",
 
-  "deadline": "deadline",
-  "proofOfLife": "Proof of Life",
+  "deadline": "plazo límite",
+  "proofOfLife": "Prueba de Vida",
 
   "cardano": "Cardano",
   "cardanoDeveloperProfessionalBadge": "Cardano Developer Professional Badge",
@@ -122,7 +122,7 @@
   "awesomeAiken": "awesome-aiken",
   "morbid": "morbid",
 
-  "completed": "Terminado",
+  "completed": "Completado",
   "inProgress": "In progress",
   "planned": "Planificado",
 
