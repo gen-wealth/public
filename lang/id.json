@@ -33,7 +33,7 @@
   "sideBar.actionSecondary": "Lihat dokumentasi",
 
   "ourService.title": "Layanan Kami",
-  "ourService.p1": "Aset crypto bernilai miliaran dollar telah hangus karena kurangnya solusi untuk mereklaim aset yang terkunci di wallet setelah pemiliknya tiada. Kami menawarkan sebuah solusi yang {secure} dan {trustless} sehingga Anda dapat mewariskan aset kepada orang-orang yang Anda cintai dengan lebih tenang.",
+  "ourService.p1": "Aset crypto bernilai miliaran dollar telah hangus karena kurangnya solusi untuk mereklaim aset yang terkunci di wallet setelah pemiliknya tiada. Kami menawarkan sebuah solusi yang {secure} dan {trustless}, karena tidak memerlukan pihak ketiga sehingga Anda dapat mewariskan aset kepada orang-orang yang Anda cintai dengan lebih tenang.",
 
   "howItWorks.title": "Cara Kerja",
   "howItWorks.p1": "DApp kami memungkinkan Anda untuk membuat {vaults}. Vault adalah serangkaian smart-contract, di mana Anda memiliki kontrol penuh atas isinya seperti layaknya sebuah wallet self-custody. Tetapi dengan Vault, Anda dapat menentukan aturan tentang bagaimana Anda ingin asetnya didistribusikan setelah Anda tiada. Ketika Anda membuat vault, Anda akan mendapatkan sebuah alamat yang unik, Anda juga akan mendapatkan sebuah {vaultKey}, dan Anda menentukan {deadline}. Deadline ini dapat diundur dari waktu ke waktu untuk membuktikan bahwa Anda masih hidup, kami menyebutnya {proofOfLife}. Dengan adanya token vault-key di dalam wallet memberikan Anda akses untuk menarik aset dari vault kapanpun, tidak tergantung deadline.",
@@ -97,7 +97,7 @@
   "callToAction.action2": "Lihat dokumentasi",
 
   "secure": "aman",
-  "trustless": "privat, karena tidak memerlukan pihak ketiga",
+  "trustless": "privat",
 
   "vault": "vault",
   "vaults": "vaults",
