@@ -135,6 +135,11 @@
   "ceo": "CEO",
   "cto": "CTO",
 
+  "ok": "OK",
+  "cancel": "Cancel",
+  "yes": "Yes",
+  "no": "No",
+
   "localStorageConsent": "We use {localStorage} to remember your preferences, such as your choice of theme and language. All data is stored exclusively on your device. This helps us enhance your browsing experience. We neither collect nor transmit any personal information through this process.",
   "copyright": "Copyright © 2024 - All rights reserved"
 }

@@ -135,6 +135,11 @@
   "ceo": "CEO",
   "cto": "CTO",
 
+  "ok": "OK",
+  "cancel": "Annuleren",
+  "yes": "Ja",
+  "no": "Nee",
+
   "localStorageConsent": "Wij gebruiken {localStorage} om uw voorkeuren te onthouden, zoals uw keuze voor thema en taal. Alle gegevens worden exclusief op uw apparaat opgeslagen. Dit helpt ons uw browse-ervaring te verbeteren. Wij verzamelen noch verzenden persoonlijke informatie via dit proces.",
   "copyright": "Auteursrecht © 2024 - Alle rechten voorbehouden"
 }

@@ -135,6 +135,11 @@
   "ceo": "Director Ejecutivo",
   "cto": "Director de Tecnología",
 
+  "ok": "Aceptar",
+  "cancel": "Cancelar",
+  "yes": "Sí",
+  "no": "No",
+
   "localStorageConsent": "Utilizamos {localStorage} para recordar sus preferencias, como su elección de tema e idioma. Todos los datos se almacenan exclusivamente en su dispositivo. Esto nos ayuda a mejorar su experiencia de navegación. No recopilamos ni transmitimos ninguna información personal a través de este proceso.",
   "copyright": "Derecho de Autor © 2024 - Todos los derechos reservados"
 }

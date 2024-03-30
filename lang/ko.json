@@ -135,6 +135,11 @@
   "ceo": "CEO",
   "cto": "CTO",
 
+  "ok": "확인",
+  "cancel": "취소",
+  "yes": "예",
+  "no": "아니오",
+
   "localStorageConsent": "{localStorage}을(를) 사용하여 테마 및 언어 선택과 같은 사용자 기본 설정을 기억합니다. 모든 데이터는 사용자 장치에만 저장됩니다. 이를 통해 사용자의 브라우징 경험이 향상됩니다. 이 과정을 통해 개인 정보를 수집하거나 전송하지 않습니다.",
   "copyright": "Copyright © 2024 - All rights reserved"
 }

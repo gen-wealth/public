@@ -135,6 +135,11 @@
   "ceo": "CEO",
   "cto": "CTO",
 
+  "ok": "OK",
+  "cancel": "Batal",
+  "yes": "Ya",
+  "no": "Tidak",
+
   "localStorageConsent": "Kami menggunakan {localStorage} untuk mencatatkan pilihan anda, seperti tetapan tema dan bahasa. Semua data disimpan hanya di peranti anda. Ini membantu kami meningkatkan pengalaman anda dalam menggunakan laman web ini. Kami tidak mengumpul dan mentransmisikan sebarang maklumat peribadi dalam proses ini.",
   "copyright": "Hak Cipta © 2024 - Hak cipta terpelihara"
 }
