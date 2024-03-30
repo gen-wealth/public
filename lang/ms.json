@@ -33,7 +33,7 @@
   "sideBar.actionSecondary": "Lihat dokumen",
 
   "ourService.title": "Perkhidmatan Kami",
-  "ourService.p1": "Aset crypto bernilai berbilion dollar telah hilang disebabkan kekurangan solusi untuk mendapatkan semula aset yang terkunci dalam wallet selepas pemiliknya meninggal dunia. Kami menawarkan satu penyelesaian yang {secure} dan {trustless}, membolehkan anda mewarisi aset kepada orang yang anda sayangi dengan lebih aman.",
+  "ourService.p1": "Aset crypto bernilai berbilion dollar telah hilang disebabkan kekurangan solusi untuk mendapatkan semula aset yang terkunci dalam wallet selepas pemiliknya meninggal dunia. Kami menawarkan satu penyelesaian yang {secure} dan {trustless}, kerana ia tidak memerlukan pihak ketiga, membolehkan anda mewarisi aset kepada orang yang anda sayangi dengan lebih aman.",
 
   "howItWorks.title": "Cara Kerja",
   "howItWorks.p1": "DApp kami membolehkan anda untuk mencipta {vaults}. Vault adalah satu set smart-contract, di mana anda mempunyai kawalan penuh ke atas kandungannya seperti self-custody wallet. Tetapi dengan Vault, anda boleh menetapkan peraturan tentang bagaimana anda ingin asetnya didistribusikan setelah anda tiada. Apabila anda mencipta vault, anda akan menerima alamat yang unik, anda juga akan menerima {vaultKey}, dan anda menetapkan {deadline}. Deadline ini boleh ditangguhkan dari semasa ke semasa untuk membuktikan bahawa anda masih hidup, kami menyebutnya {proofOfLife}. Dengan memiliki token vault-key di dalam wallet, anda mendapat akses untuk menarik aset dari vault pada bila-bila masa, tidak bergantung pada deadline.",
@@ -97,7 +97,7 @@
   "callToAction.action2": "Lihat dokumen",
 
   "secure": "aman",
-  "trustless": "privat, kerana ia tidak memerlukan pihak ketiga",
+  "trustless": "privat",
 
   "vault": "vault",
   "vaults": "vaults",
