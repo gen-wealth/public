@@ -135,5 +135,6 @@
   "ceo": "CEO",
   "cto": "CTO",
 
+  "localStorageConsent": "{localStorage}を使用して、テーマや言語の選択など、お客様の設定を記憶します。すべてのデータはお客様のデバイスにのみ保存されます。これにより、お客様のブラウジングエクスペリエンスが向上します。このプロセスを通じて、個人情報を収集または送信しません。",
   "copyright": "Copyright © 2024 - All rights reserved"
 }
