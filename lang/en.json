@@ -142,6 +142,8 @@
   "accept": "Accept",
   "deny": "Deny",
 
-  "localStorageConsent": "We use cookies to remember your preferences, such as your choice of theme and language. All data is stored exclusively on your device. This helps us enhance your browsing experience. We neither collect nor transmit any personal information through this process.",
+  "cookieConsent": "We use {cookies} to remember your preferences, such as your choice of theme and language. This helps us enhance your browsing experience. We neither collect nor transmit any personal information through this process.",
+  "cookies": "cookies",
+
   "copyright": "Copyright © 2024 - All rights reserved"
 }

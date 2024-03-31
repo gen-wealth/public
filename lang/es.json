@@ -142,6 +142,8 @@
   "accept": "Aceptar",
   "deny": "Denegar",
 
-  "localStorageConsent": "Utilizamos cookies para recordar sus preferencias, como su elección de tema e idioma. Todos los datos se almacenan exclusivamente en su dispositivo. Esto nos ayuda a mejorar su experiencia de navegación. No recopilamos ni transmitimos ninguna información personal a través de este proceso.",
+  "cookieConsent": "Utilizamos {cookies} para recordar sus preferencias, como su elección de tema e idioma. Esto nos ayuda a mejorar su experiencia de navegación. No recopilamos ni transmitimos ninguna información personal a través de este proceso.",
+  "cookies": "cookies",
+
   "copyright": "Derecho de Autor © 2024 - Todos los derechos reservados"
 }
