@@ -139,7 +139,9 @@
   "cancel": "取消",
   "yes": "是",
   "no": "否",
+  "accept": "接受",
+  "deny": "拒绝",
 
-  "localStorageConsent": "我们使用{localStorage}来记住您的偏好, 比如您的主题和语言选择。所有数据都只存储在您的设备上。这有助于我们提升您的浏览体验。我们不会通过这一过程收集或传输任何个人信息。",
+  "localStorageConsent": "我们使用cookies来记住您的偏好, 比如您的主题和语言选择。所有数据都只存储在您的设备上。这有助于我们提升您的浏览体验。我们不会通过这一过程收集或传输任何个人信息。",
   "copyright": "Copyright © 2024 - All rights reserved"
 }

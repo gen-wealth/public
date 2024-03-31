@@ -135,11 +135,13 @@
   "ceo": "CEO",
   "cto": "CTO",
 
-  "ok": "Compreendido",
+  "ok": "OK",
   "cancel": "Cancelar",
   "yes": "Sim",
   "no": "Não",
+  "accept": "Aceitar",
+  "deny": "Recusar",
 
-  "localStorageConsent": "Nós utilizamos {localStorage} para lembrar as suas preferências, como a sua escolha de tema e idioma. Todos os dados são armazenados exclusivamente no seu dispositivo. Isso nos ajuda a melhorar a sua experiência de navegação. Nós não coletamos nem transmitimos quaisquer informações pessoais através deste processo.",
+  "localStorageConsent": "Nós utilizamos cookies para lembrar as suas preferências, como a sua escolha de tema e idioma. Todos os dados são armazenados exclusivamente no seu dispositivo. Isso nos ajuda a melhorar a sua experiência de navegação. Nós não coletamos nem transmitimos quaisquer informações pessoais através deste processo.",
   "copyright": "Copyright © 2024 - Todos os direitos reservados"
 }
