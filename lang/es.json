@@ -39,17 +39,17 @@
 
   "howItWorks.title": "Cómo Funciona",
   "howItWorks.p1": "Nuestra DApp te permite crear {vaults}. Una caja fuerte es un conjunto de contratos inteligentes donde tienes control total sobre tus criptomonedas y NFTs, similar a una billetera de auto custodia. Además, dentro de la caja fuerte, puedes definir reglas para la distribución de activos. Al crear una caja fuerte, recibirás una {vaultKey}, y establecerás un {deadline}. Este plazo límite puede ser extendido periódicamente para confirmar que estás vivo, una característica a la que nos referimos como {proofOfLife}. Poseer una llave de la caja fuerte en tu billetera te permite retirar activos de la vault en cualquier momento, independientemente del deadline.",
-  "howItWorks.p2": "Dentro de tu caja fuerte, puedes crear subdivisiones llamadas {pockets} donde asignas tus activos de herencia entre ellas. Luego, puedes acuñar los {pocketKeys} asociados para enviarlos a los beneficiarios. Son estos tokens de pocket key los que les permiten reclamar su parte de los activos de los pockets respectivos una vez que no puedas demostrar que sigues vivo, lo cual ocurre solo después de que haya pasado por completo la deadline del vault.",
-  "howItWorks.p3": "Con esta DApp, tus activos de criptomonedas pueden ser reclamados por las personas que selecciones después de que te hayas ido de manera trustless. Ahora, puedes almacenar tus activos de criptomonedas con más tranquilidad porque ya no necesitas confiar tu frase semilla a un tercero. Tu vault actúa verdaderamente como una billetera de auto custodia, pero con capacidades adicionales.",
+  "howItWorks.p2": "Dentro de tu caja fuerte, puedes crear subdivisiones llamadas {pockets} donde asignas tus activos de herencia entre ellas. Luego, puedes enviar las {pocketKeys} asociadas para los beneficiarios. Son estas llaves de la caja fuerte que les permiten reclamar su parte de los activos de los bolsillos respectivos una vez que fallezcas y solo después de que haya pasado por completo el plazo límite del vault.",
+  "howItWorks.p3": "Con esta DApp, tus criptomonedas y NFTs pueden ser reclamados por las personas que selecciones después de que te hayas ido, sin necesidad de intermediarios. Ahora, puedes almacenar tus criptomonedas con más tranquilidad porque ya no necesitas confiar tu seed phrase a un tercero. Tu caja fuerte és como una billetera de auto custodia, pero con capacidades adicionales.",
   "howItWorks.p4": "GenWealth es el primer protocolo de herencia en {cardano}, planeamos expandir nuestro servicio a otras blockchains en el futuro. Para obtener más información sobre cómo funcionan nuestros contratos inteligentes, puedes leer la documentación del código {here}.",
 
-  "roadmap.title": "Hoja de Ruta",
+  "roadmap.title": "Plan de Acción",
 
   "roadmap1.time": "2023 T3",
-  "roadmap1.title": "On Chain Prueba de Concepto",
+  "roadmap1.title": "Prueba de Concepto - On Chain",
 
   "roadmap2.time": "2023 T4",
-  "roadmap2.title": "Off Chain para Pruebas Internas",
+  "roadmap2.title": "Prueba de Concepto- Interface para Pruebas Internas",
 
   "roadmap3.time": "2024 T1",
   "roadmap3.title": "Diseño UI/UX para Testnet Público",
@@ -58,22 +58,22 @@
   "roadmap4.title": "Desarrollo de Frontend y Backend",
 
   "roadmap5.time": "2024 T3",
-  "roadmap5.title": "Public Testnet y Bug Bounty",
+  "roadmap5.title": "Public Testnet y Tecompensa por Errores",
 
   "roadmap6.time": "2024 T4",
   "roadmap6.title": "Auditoría y Mejoras de Productos",
 
   "roadmap7.time": "2025",
-  "roadmap7.title": "Lanzamiento de Cardano Mainnet",
+  "roadmap7.title": "Lanzamiento en Cardano Mainnet",
 
   "roadmap8.time": "2026",
-  "roadmap8.title": "Explora Otra Blockchain (TBD)",
+  "roadmap8.title": "Explorar Otra Blockchain (TBD)",
 
   "roadmap9.time": "Década de 2030",
-  "roadmap9.title": "Served 4-5 Blockchains (TBD)",
+  "roadmap9.title": "Servir 4-5 Blockchains (TBD)",
 
   "aboutUs.title": "Sobre Nosotros",
-  "aboutUs.p1": "Somos un equipo con habilidades complementarias, nos apasiona la Web3 Tech y sus potenciales. Nuestro objetivo es construir una plataforma que pueda empoderar financieramente a las personas, brindándoles más opciones, seguridad y control sobre los activos que poseen.",
+  "aboutUs.p1": "Somos un equipo con habilidades complementarias, nos apasiona la Web3 Tech y su potencial. Nuestro objetivo es construir una plataforma que pueda empoderar financieramente a las personas, brindándoles más opciones, seguridad y control sobre los activos que poseen.",
 
   "teamMembers.title": "Conoce al Equipo",
   "teamMembers.you": "Tú",
@@ -82,18 +82,18 @@
 
   "teamMembers.rafaelCardoso": "Rafael Cardoso",
   "teamMembers.rafaelCardoso.p1": "Hola, soy Rafael. Tengo más de 5 años de experiencia en desarrollo de negocio, marketing y producto en varias startups Web2.",
-  "teamMembers.rafaelCardoso.p2": "Experiencia en gestión de equipos, proyectos y presupuestos. También soy el fundador de {decentralizedNation}, un canal de YouTube de noticias sobre criptomonedas. Mi experiencia previa incluye liderar el marketing para el lanzamiento de {willEasy}, una plataforma de creación de testamentos en línea en el Reino Unido.",
+  "teamMembers.rafaelCardoso.p2": "Experiencia en gestión de equipos, proyectos y presupuestos. También soy el fundador de {decentralizedNation}, un canal de YouTube sobre criptomonedas. Mi experiencia previa incluye liderar el marketing para el lanzamiento de {willEasy}, una plataforma de creación de testamentos online en el Reino Unido.",
 
   "teamMembers.ariadyPutra": "Ariady Putra",
   "teamMembers.ariadyPutra.p1": "Hola, soy Ariady. Tengo más de 10 años de experiencia trabajando como desarrollador de software a tiempo completo. En 2022, obtuve mi {cardanoDeveloperProfessionalBadge}.",
-  "teamMembers.ariadyPutra.p2": "Soy responsable del desarrollo de la DApp, tanto de la parte on-chain como de la off-chain del sistema, así como de decidir la pila tecnológica a utilizar. Antes de GenWealth, desarrollé el contrato inteligente {morbid} destacado en {awesomeAiken}, una implementación más simple del contrato {deadMansSwitch}.",
+  "teamMembers.ariadyPutra.p2": "Soy responsable del desarrollo de la DApp, tanto de la parte on-chain como off-chain del sistema, y por la tecnológia a utilizar. Antes de GenWealth, desarrollé el contrato inteligente {morbid} destacado en {awesomeAiken}, una implementación más simple del contrato {deadMansSwitch}.",
 
   "contactUs.title": "Contáctanos",
   "contactUs.p1": "Contáctenos en {email}",
   "contactUs.action1": "Enviar email",
 
   "callToAction.title": "Prueba el Prototipo",
-  "callToAction.p1": "¡Ya puedes probar la demo ahora mismo! Asegúrese de configurar la red de su billetera en Preview.",
+  "callToAction.p1": "¡Ya puedes probar la demo ahora mismo! Asegúrate de configurar la red de tu billetera en Preview.",
   "callToAction.p2": "{note} La apariencia actual de la aplicación no representa la versión pública real de Testnet y Mainnet posterior.",
   "callToAction.action1": "Abrir aplicación",
   "callToAction.action2": "Ver las documentaciones",
