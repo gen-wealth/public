@@ -1,0 +1,52 @@
+{
+  "genWealth": "GenWealth",
+  "tagLine": "The Crypto Inheritance Protocol",
+
+  "lang.en": "English",
+  "lang.es": "Spanish",
+  "lang.fr": "French",
+  "lang.id": "Indonesian",
+  "lang.ja": "Japanese",
+  "lang.ko": "Korean",
+  "lang.ms": "Malay",
+  "lang.nl": "Dutch",
+  "lang.pt": "Portuguese",
+  "lang.ru": "Russian",
+  "lang.zh": "Chinese",
+
+  "navBar.menu1": "Our Service",
+  "navBar.menu2": "Roadmap",
+  "navBar.menu3": "About Us",
+  "navBar.menu4": "Contact Us",
+
+  "navBar.action1": "View docs",
+
+  "vault": "vault",
+  "vaults": "vaults",
+  "vaultKey": "vault key",
+  "vaultKeys": "vault keys",
+
+  "pocket": "pocket",
+  "pockets": "pockets",
+  "pocketKey": "pocket key",
+  "pocketKeys": "pocket keys",
+
+  "here": "here",
+  "showMore": "show more",
+  "showLess": "show less",
+  "note": "note",
+  "ad": "ad",
+
+  "ok": "OK",
+  "cancel": "Cancel",
+  "yes": "Yes",
+  "no": "No",
+  "accept": "Accept",
+  "deny": "Deny",
+  "confirm": "Confirm",
+
+  "cookieConsent": "We use {cookies} to remember your preferences, such as your choice of theme and language. This helps us enhance your browsing experience. We neither collect nor transmit any personal information through this process.",
+  "cookies": "cookies",
+
+  "copyright": "Copyright © 2024 - All rights reserved"
+}
