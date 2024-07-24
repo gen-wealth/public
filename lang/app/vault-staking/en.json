@@ -3,7 +3,7 @@
   "stakeVault.desc": "Here, you can manage your vault staking actions, including stake registration/deregistration, stake delegation/redelegation, and stake rewards withdrawal.{br}{readMore}",
   "stakeVault.readMore": "Read more about staking here {openInNewIcon}",
 
-  "epochInfo.currentEpoch": "Current Epoch",
+  "epochInfo.title": "Current Epoch",
   "epochInfo.epoch": "Epoch",
   "epochInfo.startTime": "Start Time",
   "epochInfo.endTime": "End Time",
@@ -13,5 +13,20 @@
   "epochInfo.transactionCount": "Transaction Count",
   "epochInfo.output": "Output",
   "epochInfo.fees": "Fees",
-  "epochInfo.activeStake": "Active Stake"
+  "epochInfo.activeStake": "Active Stake",
+
+  "stakeInfo.title": "Stake Info",
+  "stakeInfo.stakeAddress": "Stake Address",
+  "stakeInfo.activeEpoch": "Active Epoch",
+  "stakeInfo.controlledAmount": "Controlled Amount",
+  "stakeInfo.rewardsSum": "Rewards Sum",
+  "stakeInfo.withdrawalsSum": "Withdrawals Sum",
+  "stakeInfo.reservesSum": "Reserves Sum",
+  "stakeInfo.treasurySum": "Treasury Sum",
+  "stakeInfo.withdrawableAmount": "Withdrawable Amount",
+  "stakeInfo.withdraw": "Withdraw",
+  "stakeInfo.poolID": "Pool ID",
+  "stakeInfo.status": "STATUS: {status}",
+  "stakeInfo.undelegated": "Undelegated yet!",
+  "stakeInfo.statusUndelegated": "Delegate to a pool from the list below."
 }
