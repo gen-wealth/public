@@ -56,6 +56,10 @@
 
   "searchBox.placeholderText": "search...",
 
+  "dialog.hint": "HINT: {hintContents}",
+  "dialog.hintContents": "You can also press {closeKey} to close the dialog.",
+  "dialog.closeKey": "ESC",
+
   "clearAll": "Clear all",
   "recoverVault": "Recover vault",
 
