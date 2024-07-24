@@ -17,6 +17,9 @@
   "enterVault": "Enter vault",
   "enterPocket": "Enter pocket",
   "enteringDashboard": "Entering dashboard",
+
+  "possiblyInvalidNetworkException": "Possibly invalid network. Are you sure you're connected to the correct network? Or please check your internet connetion.",
   "invalidToken": "Invalid Token",
+
   "or": "OR"
 }
