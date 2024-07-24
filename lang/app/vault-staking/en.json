@@ -15,6 +15,13 @@
   "epochInfo.fees": "Fees",
   "epochInfo.activeStake": "Active Stake",
 
+  "stakeRegistration.register": "Register",
+  "stakeRegistration.deregister": "Deregister",
+  "stakeRegistration.confirmRegistration": "Confirm Staking Registration",
+  "stakeRegistration.confirmDeregistration": "Confirm Staking Deregistration",
+  "stakeRegistration.confirmRegistrationQuestion": "Are you sure you want to register?",
+  "stakeRegistration.confirmDeregistrationQuestion": "Are you sure you want to deregister?",
+
   "stakeInfo.title": "Stake Info",
   "stakeInfo.stakeAddress": "Stake Address",
   "stakeInfo.activeEpoch": "Active Epoch",
@@ -28,5 +35,15 @@
   "stakeInfo.poolID": "Pool ID",
   "stakeInfo.status": "STATUS: {status}",
   "stakeInfo.undelegated": "Undelegated yet!",
-  "stakeInfo.statusUndelegated": "Delegate to a pool from the list below."
+  "stakeInfo.statusUndelegated": "Delegate to a pool from the list below.",
+
+  "stakePools.title": "Pool List",
+  "stakePools.dataByColon": "Data by:",
+  "stakePools.alreadyDelegating": "You are already delegating to {poolName}",
+  "stakePools.confirmPoolDelegation": "Confirm Pool Delegation",
+  "stakePools.confirmPoolRedelegation": "Confirm Pool Redelegation",
+  "stakePools.confirmPoolDelegationColon": "You are about to delegate your vault to:",
+  "stakePools.confirmPoolRedelegationColon": "You are about to redelegate your vault to:",
+
+  "poolDetails.selectApool": "Select a Pool"
 }
