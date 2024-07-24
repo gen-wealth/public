@@ -85,6 +85,7 @@
   "action.mintPocketKey": "Mint Pocket Key",
   "action.burnPocketKey": "Burn Pocket Key",
   "action.stakeRegistration": "Stake Registration",
+  "action.stakeDeregistration": "Stake Deregistration",
   "action.stakePoolDelegate": "Delegate",
   "action.stakePoolRedelegate": "Redelegate",
   "action.withdrawStakeRewards": "Withdraw Stake Rewards",
