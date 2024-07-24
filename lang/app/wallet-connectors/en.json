@@ -5,5 +5,8 @@
   "connectingWallet": "Connecting wallet",
   "connectingWallet.none": "It looks like you don't have any Cardano wallet installed.",
 
+  "networkMustBeMainnet": "Please set your wallet network to mainnet.",
+  "networkMustBeTestnet": "Invalid wallet network: [mainnet]",
+
   "walletSuggestions": "Try one of these..."
 }
