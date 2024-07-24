@@ -1,0 +1,17 @@
+{
+  "stakeVault": "Stake Vault",
+  "stakeVault.desc": "Here, you can manage your vault staking actions, including stake registration/deregistration, stake delegation/redelegation, and stake rewards withdrawal.{br}{readMore}",
+  "stakeVault.readMore": "Read more about staking here {openInNewIcon}",
+
+  "epochInfo.currentEpoch": "Current Epoch",
+  "epochInfo.epoch": "Epoch",
+  "epochInfo.startTime": "Start Time",
+  "epochInfo.endTime": "End Time",
+  "epochInfo.firstBlockTime": "First Block Time",
+  "epochInfo.lastBlockTime": "Last Block Time",
+  "epochInfo.blockCount": "Block Count",
+  "epochInfo.transactionCount": "Transaction Count",
+  "epochInfo.output": "Output",
+  "epochInfo.fees": "Fees",
+  "epochInfo.activeStake": "Active Stake"
+}

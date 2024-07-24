@@ -67,9 +67,6 @@
   "back": "Back",
   "disconnect": "Disconnect",
 
-  "networkMustBeMainnet": "Please set your wallet network to mainnet.",
-  "networkMustBeTestnet": "Invalid wallet network: [mainnet]",
-
   "cookieConsent": "We use {cookies} to remember your preferences, such as your choice of theme and language. This helps us enhance your browsing experience. We neither collect nor transmit any personal information through this process.",
   "cookies": "cookies",
 

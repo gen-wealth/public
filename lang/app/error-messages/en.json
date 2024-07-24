@@ -1,0 +1,9 @@
+{
+  "x.networkMustBeMainnet": "Please set your wallet network to mainnet.",
+  "x.networkMustBeTestnet": "Invalid wallet network: [mainnet]",
+
+  "x.uninitializedCardano": "Uninitialized Cardano",
+  "x.invalidVaultAddress": "Invalid Vault Address {vaultAddress}",
+
+  "x.unregisteredStakeAccount": "Failed to get account stake Registration Status. Possibly unregistered yet."
+}
