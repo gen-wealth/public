@@ -19,7 +19,24 @@
   "navBar.menu3": "About Us",
   "navBar.menu4": "Contact Us",
 
+  "navBar.dApp.menu1": "Home",
+  "navBar.dApp.menu2": "Create Vault",
+  "navBar.dApp.menu3": "Help",
+
   "navBar.action1": "View docs",
+
+  "page.home": "Home",
+  "page.vaultDashboard": "Vault Dashboard",
+  "page.vaultCreation": "Vault Creation",
+  "page.vaultRecovery": "Vault Recovery",
+  "page.vaultStaking": "Staking",
+  "page.vaultSettings": "Settings",
+  "page.pocketDashboard": "Pocket Dashboard",
+  "page.pocketCreation": "Pocket Creation",
+  "page.pocketSettings": "Pocket Settings",
+
+  "notificationHistory": "Notification History",
+  "notificationHistory.none": "No new notification",
 
   "vault": "vault",
   "vaults": "vaults",
@@ -37,6 +54,9 @@
   "note": "note",
   "ad": "ad",
 
+  "clearAll": "Clear all",
+  "recoverVault": "Recover vault",
+
   "ok": "OK",
   "cancel": "Cancel",
   "yes": "Yes",
@@ -44,6 +64,8 @@
   "accept": "Accept",
   "deny": "Deny",
   "confirm": "Confirm",
+  "back": "Back",
+  "disconnect": "Disconnect",
 
   "cookieConsent": "We use {cookies} to remember your preferences, such as your choice of theme and language. This helps us enhance your browsing experience. We neither collect nor transmit any personal information through this process.",
   "cookies": "cookies",
