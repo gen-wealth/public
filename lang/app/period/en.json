@@ -5,6 +5,8 @@
 
   "currentDeadline": "current deadline",
   "afterDeadline": "after deadline",
+  "untilUnlocked": "until unlocked",
+  "unlocked": "UNLOCKED",
 
   "periodY": "{y, plural, one {# year} other {# years}}",
   "periodM": "{m, plural, one {# month} other {# months}}",

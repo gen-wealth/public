@@ -13,6 +13,7 @@
   "x.invalidVaultAddress": "Invalid Vault Address {vaultAddress}",
 
   "x.foundNoVaultKey": "Found no {vaultName} key in your wallet.",
+  "x.foundNoVaultKeyPleaseWait": "{foundNoVaultKey} If you have just created the vault, please wait for the key to be minted into your wallet and try again.",
   "x.foundNoCreateVault": "No datum in the CreateVault UTxO",
 
   "x.adaHandleError": "ADA Handle {error}",

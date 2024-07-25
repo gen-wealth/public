@@ -1,1 +1,6 @@
-{}
+{
+  "countdownWidget.action1": "Postpone deadline",
+  "countdownWidget.action2": "Manage stake",
+  "countdownWidget.action3": "Mint vault key",
+  "countdownWidget.action4": "Vault settings"
+}
