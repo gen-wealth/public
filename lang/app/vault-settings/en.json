@@ -13,11 +13,11 @@
   "vaultAddress.label": "Vault address",
   "vaultAddress.tooltip": "This is your vault address.",
 
-  "plusY": "+{y} years",
+  "plusY": "{y, plural, =0 {} one {+# year} other {+# years}}",
 
-  "periodY": "{y} years",
-  "periodM": "{m} months",
-  "periodD": "{d} days",
+  "periodY": "{y, plural, one {# year} other {# years}}",
+  "periodM": "{m, plural, one {# month} other {# months}}",
+  "periodD": "{d, plural, one {# day} other {# days}}",
   "periodSentence": "{period} {afterDeadline}",
   "periodJoinCharacters": ", ",
 
