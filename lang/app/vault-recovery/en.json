@@ -4,9 +4,5 @@
 
   "vaultRecovery.action1": "Recover vault",
 
-  "vaultAddress.label": "Vault address",
-  "vaultAddress.tooltip": "This is your vault address.",
-
-  "mustSetAdestinationAddress": "Set a destination address!",
   "vaultRecoveryFailure": "Vault recovery failed: Please ensure the vault address is correct and that you are connected with the wallet address used during the vault creation process."
 }

@@ -48,6 +48,9 @@
   "pocketKey": "pocket key",
   "pocketKeys": "pocket keys",
 
+  "vaultAddress.label": "Vault address",
+  "vaultAddress.tooltip": "This is your vault address.",
+
   "here": "here",
   "showMore": "show more",
   "showLess": "show less",
