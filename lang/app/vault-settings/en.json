@@ -1,0 +1,28 @@
+{
+  "vaultSettings": "Vault Settings",
+  "vaultSettings.desc": "Here, you can rename your vault, view its address, and set the redeemability setting.",
+
+  "vaultSettings.action1": "Update vault",
+
+  "renameVault.label": "Rename vault",
+  "renameVault.tooltip": "This will NOT Rename previously minted vault key token(s). To update its name, mint a new vault key token after updating the vault.",
+
+  "claimableByThePlatform.label": "Redeem until",
+  "claimableByThePlatform.tooltip": "This is a period during which only the beneficiaries—those who hold the corresponding pocket keys—can redeem the funds. After this period, the platform is permitted to claim the funds for the treasury, ensuring that stored assets do not remain unproductive in the vault. You may opt out at any time by setting the window period to indefinite.",
+
+  "vaultAddress.label": "Vault address",
+  "vaultAddress.tooltip": "This is your vault address.",
+
+  "plusY": "+{y} years",
+
+  "periodY": "{y} years",
+  "periodM": "{m} months",
+  "periodD": "{d} days",
+  "periodSentence": "{period} {afterDeadline}",
+  "periodJoinCharacters": ", ",
+
+  "currentDeadline": "current deadline",
+  "afterDeadline": "after deadline",
+  "nothingToUpdate": "Nothing to Update",
+  "unclaimableByThePlatform": "Indefinite"
+}
