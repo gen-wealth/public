@@ -13,7 +13,7 @@
   "vaultAddress.label": "Vault address",
   "vaultAddress.tooltip": "This is your vault address.",
 
-  "plusY": "{y, plural, =0 {} one {+# year} other {+# years}}",
+  "plusY": "+{y, plural, one {# year} other {# years}}",
 
   "periodY": "{y, plural, one {# year} other {# years}}",
   "periodM": "{m, plural, one {# month} other {# months}}",
