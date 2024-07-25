@@ -2,5 +2,8 @@
   "countdownWidget.action1": "Postpone deadline",
   "countdownWidget.action2": "Manage stake",
   "countdownWidget.action3": "Mint vault key",
-  "countdownWidget.action4": "Vault settings"
+  "countdownWidget.action4": "Vault settings",
+
+  "postponeDeadline.newDeadline": "NEW DEADLINE: {deadline}",
+  "postponeDeadline.none": "Select a value!"
 }
