@@ -1,0 +1,11 @@
+{
+  "mint": "Mint",
+  "mintColon": "Mint a vault key and send it to the following address:",
+
+  "x.mustSetDestinationAddress": "Set a destination address!",
+  "x.invalidBurnAmount": "Invalid burn amount!",
+  "x.exceedMaxAvailableAmount": "The maximum available amount exceeded!",
+
+  "burn": "Burn",
+  "burnHint": "This action will NOT delete your vault from the Blockchain"
+}

@@ -63,6 +63,7 @@
   "clearAll": "Clear all",
   "recoverVault": "Recover vault",
 
+  "all": "All",
   "ok": "OK",
   "cancel": "Cancel",
   "yes": "Yes",
@@ -72,6 +73,11 @@
   "confirm": "Confirm",
   "back": "Back",
   "disconnect": "Disconnect",
+  "warning": "Warning",
+  "pleaseWait": "Please wait",
+
+  "report.incorrect": "Incorrect?",
+  "report": "Report to us",
 
   "action.createVault": "Create Vault",
   "action.createPocket": "Create Pocket",
@@ -93,7 +99,9 @@
   "action.deletePocket": "Delete Pocket",
   "action.recoverVault": "Recover Vault",
 
-  "lengthOfMaxLength": "{length}/{maxLength}",
+  "lengthOfMaxLength": "{length}{of}{maxLength}",
+  "ofAvailableAmount": "{of} {amount}",
+  "ofCharacter": "/",
 
   "actionTxHash": "{action} TxHash: {txHash} {copyButton}",
   "copiedToClipboard": "Copied to clipboard: {text}",

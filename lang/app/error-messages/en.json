@@ -12,9 +12,12 @@
   "x.invalidVaultName": "Invalid Vault Name",
   "x.invalidVaultAddress": "Invalid Vault Address {vaultAddress}",
 
-  "x.foundNoVaultKey": "Found no {vaultName} key in your wallet.",
-  "x.foundNoVaultKeyPleaseWait": "{foundNoVaultKey} If you have just created the vault, please wait for the key to be minted into your wallet and try again.",
-  "x.foundNoCreateVault": "No datum in the CreateVault UTxO",
+  "x.errorPleaseWait": "{error} {pleaseWait}",
+  "x.pleaseWait": "If you have just created the vault, please wait until the key is minted into your wallet and then try again.",
+
+  "x.foundNoKey": "Found no {keyName} key in your wallet.",
+  "x.foundNoVaultLock": "Found no Vault Lock metadata.",
+  "x.foundNoCreateVault": "Found no datum in the CreateVault UTxO",
 
   "x.adaHandleError": "ADA Handle {error}",
   "x.adaHandleBlank": "Blank Handle Name",
