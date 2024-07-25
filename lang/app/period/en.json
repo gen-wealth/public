@@ -1,12 +1,14 @@
 {
+  "unlockedAfter": "Unlocked after {deadline}",
+
   "plusY": "+{y, plural, one {# year} other {# years}}",
+
+  "currentDeadline": "current deadline",
+  "afterDeadline": "after deadline",
 
   "periodY": "{y, plural, one {# year} other {# years}}",
   "periodM": "{m, plural, one {# month} other {# months}}",
   "periodD": "{d, plural, one {# day} other {# days}}",
   "periodSentence": "{period} {afterDeadline}",
-  "periodJoinCharacters": ", ",
-
-  "currentDeadline": "current deadline",
-  "afterDeadline": "after deadline"
+  "periodJoinCharacters": ", "
 }
