@@ -5,6 +5,5 @@
   "x.mustSetDestinationAddress": "Set a destination address!",
   "x.invalidBurnAmount": "Invalid burn amount!",
 
-  "burn": "Burn",
-  "burnHint": "This action will NOT delete your vault from the Blockchain"
+  "burn": "Burn"
 }

@@ -8,5 +8,6 @@
   "postponeDeadline.none": "Select a value!",
 
   "mintVaultKey.countingVaultKeys": "Counting vault key tokens in your wallet",
-  "mintVaultKey.burnWarning": "You will be disconnected and may lose access to the vault from this wallet. You can reconnect using a wallet that holds a vault key."
+  "mintVaultKey.burnWarning": "You will be disconnected and may lose access to the vault from this wallet. You can reconnect using a wallet that holds a vault key.",
+  "mintVaultKey.burnHint": "This action will NOT delete your Vault"
 }
