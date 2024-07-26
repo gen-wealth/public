@@ -107,7 +107,10 @@
   "ofCharacter": "/",
 
   "actionTxHash": "{action} TxHash: {txHash} {copyButton}",
-  "copiedToClipboard": "Copied to clipboard: {text}",
+
+  "copiedToClipboard": "{label}: {text}",
+  "copiedToClipboard.label": "Copied to clipboard",
+
   "warningMessage": "WARNING: {message}",
   "errorMessage": "ERROR: {message}",
   "nothingToUpdate": "Nothing to Update",
