@@ -4,6 +4,7 @@
 
   "x.mustSetDestinationAddress": "Set a destination address!",
   "x.invalidBurnAmount": "Invalid burn amount!",
+  "x.exceedMaxAvailableAmount": "The maximum available amount exceeded!",
 
   "burn": "Burn"
 }

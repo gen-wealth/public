@@ -111,6 +111,7 @@
   "copiedToClipboard": "{label}: {text}",
   "copiedToClipboard.label": "Copied to clipboard",
 
+  "noteMessage": "NOTE: {message}",
   "warningMessage": "WARNING: {message}",
   "errorMessage": "ERROR: {message}",
   "nothingToUpdate": "Nothing to Update",

@@ -7,8 +7,6 @@
 
   "x.emptyWallet": "Empty Wallet",
 
-  "x.exceedMaxAvailableAmount": "The maximum available amount exceeded!",
-
   "x.invalidToken": "Invalid Token",
   "x.invalidFeeToken": "Invalid Fee Token",
   "x.invalidVaultName": "Invalid Vault Name",
