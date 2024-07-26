@@ -2,6 +2,11 @@
   "unlockedAfter": "Unlocked after {deadline}",
 
   "plusY": "+{y, plural, one {# year} other {# years}}",
+  "plusM": "+{m, plural, one {# month} other {# months}}",
+  "plusD": "+{d, plural, one {# day} other {# days}}",
+  "plusHr": "+{hr, plural, one {# hour} other {# hours}}",
+  "plusMn": "+{mn, plural, one {# minute} other {# minutes}}",
+  "plusSc": "+{sc, plural, one {# second} other {# seconds}}",
 
   "currentDeadline": "current deadline",
   "afterDeadline": "after deadline",
@@ -11,6 +16,9 @@
   "periodY": "{y, plural, one {# year} other {# years}}",
   "periodM": "{m, plural, one {# month} other {# months}}",
   "periodD": "{d, plural, one {# day} other {# days}}",
+  "periodHr": "{hr, plural, one {# hour} other {# hours}}",
+  "periodMn": "{mn, plural, one {# minute} other {# minutes}}",
+  "periodSc": "{sc, plural, one {# second} other {# seconds}}",
   "periodSentence": "{period} {afterDeadline}",
   "periodJoinCharacters": ", ",
 
