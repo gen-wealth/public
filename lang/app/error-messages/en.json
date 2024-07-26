@@ -6,6 +6,7 @@
   "x.uninitializedLucid": "Uninitialized Lucid",
 
   "x.emptyWallet": "Empty Wallet",
+  "x.emptyPocket": "Empty Pocket",
 
   "x.invalidToken": "Invalid Token",
   "x.invalidFeeToken": "Invalid Fee Token",
@@ -16,8 +17,9 @@
   "x.pleaseWait": "If you have just created the vault, please wait until the key is minted into your wallet and then try again.",
 
   "x.foundNoKey": "Found no {keyName} key in your wallet.",
-  "x.foundNoVaultLock": "Found no Vault Lock metadata.",
-  "x.foundNoCreateVault": "Found no datum in the CreateVault UTxO",
+  "x.foundNoSpendingScript": "Found no spending script.",
+  "x.foundNoMetadata": "Found no metadata.",
+  "x.foundNoDatum": "Found no datum.",
 
   "x.adaHandleError": "ADA Handle {error}",
   "x.adaHandleBlank": "Blank Handle Name",

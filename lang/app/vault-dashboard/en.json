@@ -28,12 +28,15 @@
   "pocketDetails.fingerprint": "Fingerprint: {assetFingerprint} {copyButton}",
 
   "depositTokens.gatheringAssetsInfo": "Gathering assets information from your wallet",
+  "withdrawTokens.gatheringAssetsInfo": "Gathering assets information from the vault",
 
   "depositTokens.note": "Due to the maximum transaction size limit imposed by the blockchain, each pocket can only store up to 6 distinct token types including ADA.",
   "depositTokens.note.short": "You can only store up to 6 distinct token types per pocket including ADA",
 
   "depositTokens.info": "A minimum amount of {minADA} ADA is required to attach a smart contract script.",
   "depositTokens.info.full": "{infoMinADA} Your ADA is not locked and can be withdrawn later.",
+
+  "withdrawTokens.info": "A certain amount of ADA may be required to re-attach the smart contract script and cover the transaction fee.",
 
   "depositTokens.hint": "HINT: Make sure to leave enough ADA to cover the network fee to prevent transaction failure.",
   "depositTokens.warn": "The transaction might fail to submit.",
