@@ -8,8 +8,11 @@
   "postponeDeadline.none": "Select a value!",
 
   "mintVaultKey.countingVaultKeys": "Counting vault key tokens in your wallet",
+  "mintPocketKey.lookingForPocketKeys": "Looking for the pocket key tokens in your wallet",
+
   "mintVaultKey.burnWarning": "You will be disconnected and may lose access to the vault from this wallet. You can reconnect using a wallet that holds a vault key.",
   "mintVaultKey.burnHint": "This action will NOT delete your Vault from the Blockchain",
+  "mintPocketKey.burnHint": "This action will NOT delete the Pocket from your Vault",
 
   "vaultBalance": "Vault Balance",
   "vaultBalance.desc": "Total deposited ADA across all Pockets",

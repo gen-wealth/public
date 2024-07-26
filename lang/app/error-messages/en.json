@@ -13,8 +13,9 @@
   "x.invalidVaultName": "Invalid Vault Name",
   "x.invalidVaultAddress": "Invalid Vault Address {vaultAddress}",
 
-  "x.errorPleaseWait": "{error} {pleaseWait}",
+  "x.errorPleaseRetry": "{error} {pleaseRetry}",
   "x.pleaseWait": "If you have just created the vault, please wait until the key is minted into your wallet and then try again.",
+  "x.tryAgain": "Please try again later.",
 
   "x.foundNoKey": "Found no {keyName} key in your wallet.",
   "x.foundNoSpendingScript": "Found no spending script.",
