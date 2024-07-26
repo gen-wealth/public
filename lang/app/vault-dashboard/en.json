@@ -35,7 +35,7 @@
   "depositTokens.info": "A minimum amount of {minADA} ADA is required to attach a smart contract script.",
   "depositTokens.info.full": "{infoMinADA} Your ADA is not locked and can be withdrawn later.",
 
-  "depositTokens.hint": "HINT: Make sure to leave enough ADA to cover the network fee, otherwise the transaction might fail to submit.",
+  "depositTokens.hint": "HINT: Make sure to leave enough ADA to cover the network fee to prevent transaction failure.",
   "depositTokens.warn": "The transaction might fail to submit.",
 
   "depositTokens.warn.depositVaultKey": "You are about to deposit this vault's key token(s)—you may lose access to the vault.",
