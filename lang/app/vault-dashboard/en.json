@@ -13,5 +13,7 @@
 
   "vaultBalance": "Vault Balance",
   "vaultBalance.desc": "Total deposited ADA across all Pockets",
-  "vaultBalance.action1": "Show all tokens"
+  "vaultBalance.action1": "Show all tokens",
+
+  "allTokens.title": "All Tokens across All Pockets"
 }
