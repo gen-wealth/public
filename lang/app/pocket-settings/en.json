@@ -12,5 +12,8 @@
   "creationTime.tooltip": "The creation time of the pocket.",
 
   "pocketPolicy.label": "Policy ID",
-  "pocketPolicy.tooltip": "The Policy ID of the pocket."
+  "pocketPolicy.tooltip": "The Policy ID of the pocket.",
+
+  "pocketDeletion.confirmPocketDeletion": "Confirm Pocket Deletion",
+  "pocketDeletion.warn": "Any previously minted pocket key tokens that are currently in circulation and associated with this pocket, if any, will become orphaned and lose their ability to redeem any pockets."
 }
