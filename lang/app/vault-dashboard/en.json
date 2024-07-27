@@ -7,8 +7,8 @@
   "postponeDeadline.newDeadline": "NEW DEADLINE: {deadline}",
   "postponeDeadline.none": "Select a value!",
 
-  "mintVaultKey.countingVaultKeys": "Counting vault key tokens in your wallet",
-  "mintPocketKey.lookingForPocketKeys": "Looking for the pocket key tokens in your wallet",
+  "mintVaultKey.loading": "Counting vault key tokens in your wallet",
+  "mintPocketKey.loading": "Looking for the pocket key tokens in your wallet",
 
   "mintVaultKey.burnWarning": "You will be disconnected and may lose access to the vault from this wallet. You can reconnect using a wallet that holds a vault key.",
   "mintVaultKey.burnHint": "This action will NOT delete your Vault from the Blockchain",
@@ -21,7 +21,7 @@
   "allTokens.title": "All Tokens across All Pockets",
 
   "pocketsWidget.title": "Manage Pockets",
-  "pocketsWidget.lookingForPockets": "Looking for pockets in the vault",
+  "pocketsWidget.loading": "Looking for pockets in the vault",
   "pocketsWidget.action1": "Deposit",
   "pocketsWidget.action2": "Withdraw",
   "pocketsWidget.action3": "Mint pocket key",
@@ -30,8 +30,8 @@
   "pocketDetails.selectApocket": "Select a Pocket",
   "pocketDetails.fingerprint": "Fingerprint: {assetFingerprint} {copyButton}",
 
-  "depositTokens.gatheringAssetsInfo": "Gathering assets information from your wallet",
-  "withdrawTokens.gatheringAssetsInfo": "Gathering assets information from the vault",
+  "depositTokens.loading": "Gathering assets information from your wallet",
+  "withdrawTokens.loading": "Gathering assets information from the vault",
 
   "depositTokens.note": "Due to the maximum transaction size limit imposed by the blockchain, each pocket can only store up to 6 distinct token types including ADA.",
   "depositTokens.note.short": "You can only store up to 6 distinct token types per pocket including ADA",
