@@ -11,6 +11,7 @@
   "x.invalidToken": "Invalid Token",
   "x.invalidFeeToken": "Invalid Fee Token",
   "x.invalidVaultName": "Invalid Vault Name",
+  "x.invalidPocketName": "Invalid Pocket Name",
   "x.invalidVaultAddress": "Invalid Vault Address {vaultAddress}",
 
   "x.errorPleaseRetry": "{error} {pleaseRetry}",

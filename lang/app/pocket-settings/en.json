@@ -1,0 +1,7 @@
+{
+  "pocketSettings": "Pocket Settings",
+  "pocketSettings.desc": "Here, you can rename the pocket, as well as view its creation time and Policy ID",
+
+  "pocketSettings.action1": "Update pocket",
+  "pocketSettings.action2": "Delete pocket"
+}
