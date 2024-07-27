@@ -3,5 +3,8 @@
   "pocketSettings.desc": "Here, you can rename the pocket, as well as view its creation time and Policy ID",
 
   "pocketSettings.action1": "Update pocket",
-  "pocketSettings.action2": "Delete pocket"
+  "pocketSettings.action2": "Delete pocket",
+
+  "renamePocket.label": "Rename pocket",
+  "renamePocket.tooltip": "This will NOT Rename previously minted pocket key token(s). To update its name, mint a new pocket key token after updating the pocket."
 }
