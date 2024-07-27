@@ -51,6 +51,8 @@
   "vaultAddress.label": "Vault address",
   "vaultAddress.tooltip": "This is your vault address.",
 
+  "selectPocket": "Select a Pocket",
+
   "here": "here",
   "showMore": "show more",
   "showLess": "show less",
@@ -108,6 +110,7 @@
   "ofCharacter": "/",
 
   "actionTxHash": "{action} TxHash: {txHash} {copyButton}",
+  "assetFingerprint": "Fingerprint: {fingerprint} {copyButton}",
 
   "copiedToClipboard": "{label}: {text}",
   "copiedToClipboard.label": "Copied to clipboard",

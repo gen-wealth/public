@@ -27,9 +27,6 @@
   "pocketsWidget.action3": "Mint pocket key",
   "pocketsWidget.action4": "Pocket settings",
 
-  "pocketDetails.selectApocket": "Select a Pocket",
-  "pocketDetails.fingerprint": "Fingerprint: {assetFingerprint} {copyButton}",
-
   "depositTokens.loading": "Gathering assets information from your wallet",
   "withdrawTokens.loading": "Gathering assets information from the vault",
 
