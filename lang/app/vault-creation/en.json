@@ -9,7 +9,8 @@
 
   "initialDeadline.label": "Initial deadline",
   "initialDeadline.tooltip": "This sets the initial date for when the stored assets can be redeemed. You can postpone the deadline from time to time.",
-  "initialDeadline.start": "from today",
+  "initialDeadline.start.mainnet": "from today",
+  "initialDeadline.start.testnet": "from now",
 
   "selectIcon.label": "Select icon",
   "selectIcon.tooltip": "This will determine the image for the minted vault key token.",
