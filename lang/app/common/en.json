@@ -103,7 +103,7 @@
   "action.deletePocket": "Delete Pocket",
   "action.recoverVault": "Recover Vault",
 
-  "lengthOfMaxLength": "{length} {of} {maxLength}",
+  "lengthOfMaxLength": "{length}{of}{maxLength}",
   "ofAvailableAmount": "{of} {amount}",
   "ofCharacter": "/",
 
