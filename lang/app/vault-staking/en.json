@@ -45,5 +45,7 @@
   "stakePools.confirmPoolDelegationColon": "You are about to delegate your vault to:",
   "stakePools.confirmPoolRedelegationColon": "You are about to redelegate your vault to:",
 
-  "poolDetails.selectApool": "Select a Pool"
+  "poolDetails.selectPool": "Select a Pool",
+
+  "x.unregisteredStakeAccount": "Failed to get account stake Registration Status. Possibly unregistered yet."
 }

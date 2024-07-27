@@ -25,8 +25,6 @@
   "x.adaHandleError": "ADA Handle {error}",
   "x.adaHandleBlank": "Blank Handle Name",
 
-  "x.mustSetPlatformClaimableAfter": "Must set redeem until.",
   "x.getLatestBlockFailure": "Failed to get the latest block time.",
-  "x.unregisteredStakeAccount": "Failed to get account stake Registration Status. Possibly unregistered yet.",
   "x.possiblyInvalidNetworkException": "Possibly invalid network. Are you sure you're connected to the correct network? Or please check your internet connetion."
 }
