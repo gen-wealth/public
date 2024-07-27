@@ -1,1 +1,16 @@
-{}
+{
+  "vaultCreation": "Vault Creation",
+  "vaultCreation.desc": "A vault is a smart contract wallet to store your inheritance assets. Here, you can set-up the initial configurations of your vault.",
+
+  "vaultCreation.action1": "Preview vault",
+
+  "vaultName.label": "Vault name",
+  "vaultName.tooltip": "This will be used for the minted vault key token name.",
+
+  "initialDeadline.label": "Initial deadline",
+  "initialDeadline.tooltip": "This sets the initial date for when the stored assets can be redeemed. You can postpone the deadline from time to time.",
+  "initialDeadline.start": "from today",
+
+  "tos.check": "I have read and accept the {tos}",
+  "tos": "terms of service"
+}

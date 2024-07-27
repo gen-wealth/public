@@ -8,6 +8,7 @@
   "plusMn": "+{mn, plural, one {# minute} other {# minutes}}",
   "plusSc": "+{sc, plural, one {# second} other {# seconds}}",
 
+  "initialDeadline": "initial deadline",
   "currentDeadline": "current deadline",
   "afterDeadline": "after deadline",
   "untilUnlocked": "until unlocked",
@@ -24,6 +25,7 @@
 
   "claimableByThePlatform.label": "Redeem until",
   "claimableByThePlatform.tooltip": "This is a period during which only the beneficiaries—those who hold the corresponding pocket keys—can redeem the funds. After this period, the platform is permitted to claim the funds for the treasury, ensuring that stored assets do not remain unproductive in the vault. You may opt out at any time by setting the window period to indefinite.",
+  "claimableByThePlatform.optOut": "Indefinite",
 
-  "unclaimableByThePlatform": "Indefinite"
+  "x.mustSetClaimableByThePlatformAfter": "Must set redeem until."
 }
