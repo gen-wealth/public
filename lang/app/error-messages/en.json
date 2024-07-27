@@ -22,6 +22,7 @@
   "x.foundNoSpendingScript": "Found no spending script.",
   "x.foundNoMetadata": "Found no metadata.",
   "x.foundNoDatum": "Found no datum.",
+  "x.foundNoUTxO": "Found no UTxO",
 
   "x.adaHandleError": "ADA Handle {error}",
   "x.adaHandleBlank": "Blank Handle Name",
