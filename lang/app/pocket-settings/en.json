@@ -9,5 +9,8 @@
   "renamePocket.tooltip": "This will NOT Rename previously minted pocket key token(s). To update its name, mint a new pocket key token after updating the pocket.",
 
   "creationTime.label": "Created at",
-  "creationTime.tooltip": "The creation time of the pocket."
+  "creationTime.tooltip": "The creation time of the pocket.",
+
+  "pocketPolicy.label": "Policy ID",
+  "pocketPolicy.tooltip": "The Policy ID of the pocket."
 }
