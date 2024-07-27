@@ -11,6 +11,9 @@
   "initialDeadline.tooltip": "This sets the initial date for when the stored assets can be redeemed. You can postpone the deadline from time to time.",
   "initialDeadline.start": "from today",
 
+  "selectIcon.label": "Select icon",
+  "selectIcon.tooltip": "This will determine the image for the minted vault key token.",
+
   "tos.check": "I have read and accept the {tos}",
   "tos": "terms of service"
 }
