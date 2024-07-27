@@ -6,5 +6,8 @@
   "pocketSettings.action2": "Delete pocket",
 
   "renamePocket.label": "Rename pocket",
-  "renamePocket.tooltip": "This will NOT Rename previously minted pocket key token(s). To update its name, mint a new pocket key token after updating the pocket."
+  "renamePocket.tooltip": "This will NOT Rename previously minted pocket key token(s). To update its name, mint a new pocket key token after updating the pocket.",
+
+  "creationTime.label": "Created at",
+  "creationTime.tooltip": "The creation time of the pocket."
 }
