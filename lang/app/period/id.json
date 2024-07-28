@@ -1,31 +1,31 @@
 {
-  "unlockedAfter": "Unlocked after {deadline}",
+  "unlockedAfter": "Terbuka setelah {deadline}",
 
-  "plusY": "+{y, plural, one {# year} other {# years}}",
-  "plusM": "+{m, plural, one {# month} other {# months}}",
-  "plusD": "+{d, plural, one {# day} other {# days}}",
-  "plusHr": "+{hr, plural, one {# hour} other {# hours}}",
-  "plusMn": "+{mn, plural, one {# minute} other {# minutes}}",
-  "plusSc": "+{sc, plural, one {# second} other {# seconds}}",
+  "plusY": "+{y} tahun",
+  "plusM": "+{m} bulan",
+  "plusD": "+{d} hari",
+  "plusHr": "+{hr} jam",
+  "plusMn": "+{mn} menit",
+  "plusSc": "+{sc} detik",
 
-  "initialDeadline": "initial deadline",
-  "currentDeadline": "current deadline",
-  "afterDeadline": "after deadline",
-  "untilUnlocked": "until unlocked",
-  "unlocked": "unlocked",
+  "initialDeadline": "deadline awal",
+  "currentDeadline": "deadline sekarang",
+  "afterDeadline": "setelah deadline",
+  "untilUnlocked": "sampai terbuka",
+  "unlocked": "terbuka",
 
-  "periodY": "{y, plural, one {# year} other {# years}}",
-  "periodM": "{m, plural, one {# month} other {# months}}",
-  "periodD": "{d, plural, one {# day} other {# days}}",
-  "periodHr": "{hr, plural, one {# hour} other {# hours}}",
-  "periodMn": "{mn, plural, one {# minute} other {# minutes}}",
-  "periodSc": "{sc, plural, one {# second} other {# seconds}}",
+  "periodY": "{y} tahun",
+  "periodM": "{m} bulan",
+  "periodD": "{d} hari",
+  "periodHr": "{hr} jam",
+  "periodMn": "{mn} menit",
+  "periodSc": "{sc} detik",
   "periodSentence": "{period} {afterDeadline}",
   "periodJoinCharacters": ", ",
 
-  "claimableByThePlatform.label": "Redeem until",
-  "claimableByThePlatform.tooltip": "This is a period during which only the beneficiaries—those who hold the corresponding pocket keys—can redeem the funds. After this period, the platform is permitted to claim the funds for the treasury, ensuring that stored assets do not remain unproductive in the vault. You may opt out at any time by setting the window period to indefinite.",
-  "claimableByThePlatform.optOut": "Indefinite",
+  "claimableByThePlatform.label": "Periode klaim",
+  "claimableByThePlatform.tooltip": "Ini adalah periode di mana hanya penerima manfaat, yaitu orang yang memiliki kunci pocket, yang dapat mengklaim isi dari pocket tersebut. Setelah periode ini lewat maka platform diizinkan untuk mengklaim isi pocket untuk dimasukkan ke dalam treasury, sehingga aset menjadi produktif, tidak mubazir di dalam vault. Anda dapat memilih rentang waktu tidak terbatas kapanpun jika tidak menyetujui kebijakan ini.",
+  "claimableByThePlatform.optOut": "Tidak terbatas",
 
-  "x.mustSetClaimableByThePlatformAfter": "Must set redeem until."
+  "x.mustSetClaimableByThePlatformAfter": "Harus memilih periode klaim."
 }
