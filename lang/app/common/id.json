@@ -91,7 +91,7 @@
   "action.updatePocket": "Perbaruan Pocket",
   "action.postponeDeadline": "Penundaan Deadline",
   "action.deposit": "Deposit",
-  "action.withdraw": "Penarikan",
+  "action.withdraw": "Tarik",
   "action.mintVaultKey": "Mint Kunci Vault",
   "action.burnVaultKey": "Burn Kunci Vault",
   "action.mintPocketKey": "Mint Kunci Pocket",

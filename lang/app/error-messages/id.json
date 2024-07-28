@@ -1,32 +1,32 @@
 {
-  "x.networkMustBeMainnet": "Please set your wallet network to mainnet.",
-  "x.networkMustBeTestnet": "Invalid wallet network: [mainnet]",
+  "x.networkMustBeMainnet": "Silakan atur jaringan wallet ke mainnet.",
+  "x.networkMustBeTestnet": "Jaringan wallet tidak valid: [mainnet]",
 
-  "x.uninitializedCardano": "Uninitialized Cardano",
-  "x.uninitializedLucid": "Uninitialized Lucid",
+  "x.uninitializedCardano": "Cardano belum terinisialisasi",
+  "x.uninitializedLucid": "Lucid belum terinisialisasi",
 
-  "x.emptyWallet": "Empty Wallet",
-  "x.emptyPocket": "Empty Pocket",
+  "x.emptyWallet": "Dompet Kosong",
+  "x.emptyPocket": "Pocket Kosong",
 
-  "x.invalidToken": "Invalid Token",
-  "x.invalidFeeToken": "Invalid Fee Token",
-  "x.invalidVaultName": "Invalid Vault Name",
-  "x.invalidPocketName": "Invalid Pocket Name",
-  "x.invalidVaultAddress": "Invalid Vault Address {vaultAddress}",
+  "x.invalidToken": "Token Tidak Valid",
+  "x.invalidFeeToken": "Fee Token Tidak Valid",
+  "x.invalidVaultName": "Nama Vault Tidak Valid",
+  "x.invalidPocketName": "Nama Pocket Tidak Valid",
+  "x.invalidVaultAddress": "Alamat Vault {vaultAddress} Tidak Valid",
 
   "x.errorPleaseRetry": "{error} {pleaseRetry}",
-  "x.pleaseWait": "If you have just created the vault, please wait until the key is minted into your wallet and then try again.",
-  "x.tryAgain": "Please try again later.",
+  "x.pleaseWait": "Jika Anda baru saja membuat vault, mohon tunggu hingga kunci dikirim ke dompet Anda dan coba lagi.",
+  "x.tryAgain": "Coba lagi nanti.",
 
-  "x.foundNoKey": "Found no {keyName} key in your wallet.",
-  "x.foundNoSpendingScript": "Found no spending script.",
-  "x.foundNoMetadata": "Found no metadata.",
-  "x.foundNoDatum": "Found no datum.",
-  "x.foundNoUTxO": "Found no UTxO",
+  "x.foundNoKey": "Kunci {keyName} tidak ditemukan di dalam wallet.",
+  "x.foundNoSpendingScript": "Spending Script tidak ditemukan.",
+  "x.foundNoMetadata": "Metadata tidak ditemukan.",
+  "x.foundNoDatum": "Datum tidak ditemukan.",
+  "x.foundNoUTxO": "UTxO tidak ditemukan,",
 
-  "x.adaHandleError": "ADA Handle {error}",
-  "x.adaHandleBlank": "Blank Handle Name",
+  "x.adaHandleError": "Kesalahan ADA Handle {error}",
+  "x.adaHandleBlank": "Nama Handle Kosong",
 
-  "x.getLatestBlockFailure": "Failed to get the latest block time.",
-  "x.possiblyInvalidNetworkException": "Possibly invalid network. Are you sure you're connected to the correct network? Or please check your internet connetion."
+  "x.getLatestBlockFailure": "Gagal mendapatkan block time terbaru.",
+  "x.possiblyInvalidNetworkException": "Kemungkinan jaringan tidak valid. Apakah Anda yakin terhubung ke jaringan yang benar? Atau mohon periksa koneksi internet Anda."
 }
