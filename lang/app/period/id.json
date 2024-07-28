@@ -11,7 +11,7 @@
   "initialDeadline": "deadline awal",
   "currentDeadline": "deadline sekarang",
   "afterDeadline": "setelah deadline",
-  "untilUnlocked": "sampai terbuka",
+  "untilUnlocked": "sebelum terbuka",
   "unlocked": "terbuka",
 
   "periodY": "{y} tahun",

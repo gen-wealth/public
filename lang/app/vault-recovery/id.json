@@ -1,8 +1,8 @@
 {
-  "vaultRecovery": "Vault Recovery",
-  "vaultRecovery.desc": "Here, you can regain access to your vault by minting a vault key using the vault address. Only the wallet address that was connected during the vault creation process is authorized to perform this action.",
+  "vaultRecovery": "Pemulihan Vault",
+  "vaultRecovery.desc": "Di sini Anda dapat memperoleh kembali akses ke vault dengan me-mint kunci vault berdasarkan alamat vault. Hanya alamat wallet yang terhubung saat proses pembuatan vault yang dapat melakukan aksi ini.",
 
-  "vaultRecovery.action1": "Recover vault",
+  "vaultRecovery.action1": "Pulihkan vault",
 
-  "vaultRecoveryFailure": "Vault recovery failed: Please ensure the vault address is correct and that you are connected with the wallet address used during the vault creation process."
+  "vaultRecoveryFailure": "Pemulihan vault gagal: Pastikan alamat vault benar dan Anda terhubung dengan alamat wallet yang digunakan saat proses pembuatan vault."
 }
