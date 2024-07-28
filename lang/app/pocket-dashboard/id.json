@@ -1,10 +1,10 @@
 {
-  "lastRedeemed": "Last redeemed",
+  "lastRedeemed": "Klaim Pocket Terakhir",
 
-  "otherActivity": "Looking to do something else?",
-  "otherActivity.activity1": "Try creating a vault",
+  "otherActivity": "Ingin mencoba yang lain?",
+  "otherActivity.activity1": "Buat Vault",
 
-  "redeem": "Redeem",
+  "redeem": "Klaim",
 
-  "redeemPocket.confirmRedeemPocket": "Confirm Redeem Pocket"
+  "redeemPocket.confirmRedeemPocket": "Konfirmasi Klaim Pocket"
 }
