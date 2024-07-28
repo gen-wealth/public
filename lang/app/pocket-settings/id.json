@@ -1,12 +1,12 @@
 {
   "pocketSettings": "Pengaturan Pocket",
-  "pocketSettings.desc": "Di sini Anda dapat mengubah nama pocket dan melihat waktu pembuatan serta Policy ID-nya.",
+  "pocketSettings.desc": "Di sini Anda dapat mengubah nama pocket dan melihat waktu pembuatan serta Policy ID",
 
   "pocketSettings.action1": "Perbarui pocket",
   "pocketSettings.action2": "Hapus pocket",
 
   "renamePocket.label": "Ubah nama pocket",
-  "renamePocket.tooltip": "Hal ini TIDAK akan mengubah nama token kunci pocket yang sudah di-mint sebelumnya. Untuk memperbarui nama token kunci, mint kunci pocket yang baru setelah memperbarui pocket.",
+  "renamePocket.tooltip": "Ini TIDAK akan mengubah nama token kunci pocket yang sudah di-mint sebelumnya. Untuk memperbarui nama token kunci, mint kunci pocket yang baru setelah memperbarui pocket.",
 
   "creationTime.label": "Dibuat pada",
   "creationTime.tooltip": "Waktu pembuatan pocket.",

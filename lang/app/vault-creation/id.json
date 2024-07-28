@@ -1,20 +1,20 @@
 {
-  "vaultCreation": "Vault Creation",
-  "vaultCreation.desc": "A vault is a smart contract wallet to store your inheritance assets. Here, you can set-up the initial configurations of your vault.",
+  "vaultCreation": "Buat Vault",
+  "vaultCreation.desc": "Vault adalah sebuah wallet smart contract tempat menyimpan aset Anda. Di sini Anda dapat mengatur konfigurasi awal vault.",
 
-  "vaultCreation.action1": "Preview vault",
+  "vaultCreation.action1": "Pratinjau vault",
 
-  "vaultName.label": "Vault name",
-  "vaultName.tooltip": "This will be used for the minted vault key token name.",
+  "vaultName.label": "Nama vault",
+  "vaultName.tooltip": "Nama Vault akan digunakan sebagai nama token kunci vault.",
 
-  "initialDeadline.label": "Initial deadline",
-  "initialDeadline.tooltip": "This sets the initial date for when the stored assets can be redeemed. You can postpone the deadline from time to time.",
-  "initialDeadline.start.mainnet": "from today",
-  "initialDeadline.start.testnet": "from now",
+  "initialDeadline.label": "Deadline awal",
+  "initialDeadline.tooltip": "Deadline Awal menentukan waktu mula-mula aset yang disimpan dapat diklaim. Anda dapat menunda deadline dari waktu ke waktu melalui dasbor vault nanti.",
+  "initialDeadline.start.mainnet": "sejak hari ini",
+  "initialDeadline.start.testnet": "sejak sekarang",
 
-  "selectIcon.label": "Select icon",
-  "selectIcon.tooltip": "This will determine the image for the minted vault key token.",
+  "selectIcon.label": "Pilih ikon",
+  "selectIcon.tooltip": "Pilihan Ikon akan menentukan gambar token kunci vault.",
 
-  "tos.check": "I have read and accept the {tos}",
-  "tos": "terms of service"
+  "tos.check": "Saya telah membaca dan menyetujui {tos}",
+  "tos": "syarat dan ketentuan"
 }
