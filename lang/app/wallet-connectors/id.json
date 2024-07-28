@@ -1,9 +1,9 @@
 {
-  "connectWallet": "Connect wallet",
-  "connectWallet.desc": "Connect your wallet to securely access your crypto inheritance assets on our platform. This process enables you to interact with your vaults and manage the pockets as well as the contents within.",
+  "connectWallet": "Hubungkan wallet",
+  "connectWallet.desc": "Hubungkan wallet Anda untuk mengelola aset kripto Anda di platform kami. Proses ini memungkinkan Anda berinteraksi dengan vault dan mengelola pocket beserta isinya.",
 
-  "connectingWallet": "Connecting wallet",
-  "connectingWallet.none": "It looks like you don't have any Cardano wallet installed.",
+  "connectingWallet": "Menghubungkan wallet",
+  "connectingWallet.none": "Sepertinya tidak ada wallet Cardano yang terinstall.",
 
-  "walletSuggestions": "Try one of these..."
+  "walletSuggestions": "Coba wallet dari daftar di sini..."
 }

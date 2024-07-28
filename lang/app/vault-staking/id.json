@@ -31,7 +31,7 @@
   "stakeInfo.reservesSum": "Jumlah Cadangan",
   "stakeInfo.treasurySum": "Jumlah Treasury",
   "stakeInfo.withdrawableAmount": "Jumlah yang Dapat Ditarik",
-  "stakeInfo.withdraw": "Penarikan",
+  "stakeInfo.withdraw": "Tarik",
   "stakeInfo.poolID": "ID Pool",
   "stakeInfo.status": "STATUS: {status}",
   "stakeInfo.undelegated": "Belum Didelegasikan!",
@@ -39,7 +39,7 @@
 
   "stakePools.title": "Daftar Pool",
   "stakePools.dataByColon": "Data oleh:",
-  "stakePools.alreadyDelegating": "Anda sudah mendelegasikan ke {poolName}",
+  "stakePools.alreadyDelegating": "Anda sudah terdelegasi ke {poolName}",
   "stakePools.confirmPoolDelegation": "Konfirmasi Delegasi Pool",
   "stakePools.confirmPoolRedelegation": "Konfirmasi Redelegasi Pool",
   "stakePools.confirmPoolDelegationColon": "Anda akan mendelegasikan vault ke:",
