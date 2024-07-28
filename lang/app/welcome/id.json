@@ -1,5 +1,5 @@
 {
-  "welcome": "Halo",
+  "welcome": "Selamat Datang",
   "welcomeMessage": "Di sini Anda dapat membuat vault, tempat untuk menyimpan aset dan menetapkan deadline. Aset yang disimpan di dalam vault hanya dapat diklaim setelah deadline berlalu, dan hanya oleh orang yang memiliki kunci pocket yang sesuai.",
 
   "welcome.action1": "Buat vault",
