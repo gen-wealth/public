@@ -1,19 +1,19 @@
 {
-  "pocketSettings": "Pocket Settings",
-  "pocketSettings.desc": "Here, you can rename the pocket, as well as view its creation time and Policy ID",
+  "pocketSettings": "Pengaturan Pocket",
+  "pocketSettings.desc": "Di sini Anda dapat mengubah nama pocket dan melihat waktu pembuatan serta Policy ID-nya.",
 
-  "pocketSettings.action1": "Update pocket",
-  "pocketSettings.action2": "Delete pocket",
+  "pocketSettings.action1": "Perbarui pocket",
+  "pocketSettings.action2": "Hapus pocket",
 
-  "renamePocket.label": "Rename pocket",
-  "renamePocket.tooltip": "This will NOT Rename previously minted pocket key token(s). To update its name, mint a new pocket key token after updating the pocket.",
+  "renamePocket.label": "Ubah nama pocket",
+  "renamePocket.tooltip": "Hal ini TIDAK akan mengubah nama token kunci pocket yang sudah di-mint sebelumnya. Untuk memperbarui nama token kunci, mint kunci pocket yang baru setelah memperbarui pocket.",
 
-  "creationTime.label": "Created at",
-  "creationTime.tooltip": "The creation time of the pocket.",
+  "creationTime.label": "Dibuat pada",
+  "creationTime.tooltip": "Waktu pembuatan pocket.",
 
   "pocketPolicy.label": "Policy ID",
-  "pocketPolicy.tooltip": "The Policy ID of the pocket.",
+  "pocketPolicy.tooltip": "Policy ID pocket.",
 
-  "pocketDeletion.confirmPocketDeletion": "Confirm Pocket Deletion",
-  "pocketDeletion.warn": "Any previously minted pocket key tokens that are currently in circulation and associated with this pocket, if any, will become orphaned and lose their ability to redeem any pockets."
+  "pocketDeletion.confirmPocketDeletion": "Konfirmasi Penghapusan Pocket",
+  "pocketDeletion.warn": "Semua token kunci yang terasosiasi dengan pocket ini yang sudah di-mint sebelumnya dan yang saat ini masih beredar, jika ada, akan kehilangan akses untuk mengklaim pocket manapun."
 }
