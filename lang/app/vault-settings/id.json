@@ -1,9 +1,9 @@
 {
-  "vaultSettings": "Vault Settings",
-  "vaultSettings.desc": "Here, you can rename your vault, view its address, and set the redeemability setting.",
+  "vaultSettings": "Pengaturan Vault",
+  "vaultSettings.desc": "Di sini Anda dapat mengubah nama vault, melihat alamat dan mengatur periode klaim.",
 
-  "vaultSettings.action1": "Update vault",
+  "vaultSettings.action1": "Perbarui vault",
 
-  "renameVault.label": "Rename vault",
-  "renameVault.tooltip": "This will NOT Rename previously minted vault key token(s). To update its name, mint a new vault key token after updating the vault."
+  "renameVault.label": "Ubah nama vault",
+  "renameVault.tooltip": "Ini TIDAK akan mengubah nama token kunci vault yang sudah di-mint sebelumnya. Untuk memperbarui nama token kunci, mint kunci vault yang baru setelah memperbarui vault."
 }
