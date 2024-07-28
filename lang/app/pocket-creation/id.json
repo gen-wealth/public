@@ -1,15 +1,15 @@
 {
-  "pocketCreation": "Pocket Creation",
-  "pocketCreation.desc": "A pocket is a storage unit within your vault where you deposit tokens. After the vault deadline passes, a beneficiary can redeem the contents of the pocket if they possess the corresponding pocket key.",
+  "pocketCreation": "Buat Pocket",
+  "pocketCreation.desc": "Pocket adalah unit penyimpanan di dalam vault tempat Anda mendeposit token. Setelah deadline berlalu maka penerima manfaat dapat mengklaim isi pocket jika mereka memiliki kunci pocket yang sesuai.",
 
-  "pocketCreation.action1": "Preview pocket",
+  "pocketCreation.action1": "Pratinjau pocket",
 
-  "pocketName.label": "Pocket name",
-  "pocketName.tooltip": "Pocket Name is used for you to differentiate between pockets (eg. beneficiary name, pocket purpose, etc). There is no restriction for you to have multiple pockets with the same name, but there is no benefit in doing so.",
+  "pocketName.label": "Nama pocket",
+  "pocketName.tooltip": "Nama Pocket berfungsi untuk membedakan antar pocket (misalnya berdasarkan nama penerima manfaat, tujuan pocket, dll). Tidak ada larangan untuk memiliki lebih dari satu pocket dengan nama yang sama, namun tidak ada keuntungan bagi Anda jika melakukan hal ini.",
 
-  "selectIcon.label": "Select icon",
-  "selectIcon.tooltip": "Icon Selection determines the pocket's visual.",
+  "selectIcon.label": "Pilih ikon",
+  "selectIcon.tooltip": "Pilihan Ikon menentukan tampilan visual pocket.",
 
-  "acknowledgment": "A single pocket can only store up to 6 distinct token types including ADA, otherwise it might become unredeemable. This is caused by the maximum transaction size limit imposed by the blockchain, you can create multiple pockets if you need to store more assets.",
-  "acknowledgment.check": "I understand"
+  "acknowledgment": "Satu pocket hanya dapat menyimpan hingga 6 jenis token yang berbeda termasuk ADA, lebih dari itu pocket berpotensi menjadi tidak dapat diklaim. Hal ini disebabkan oleh batas maksimal ukuran transaksi yang diberlakukan oleh blockchain, Anda dapat membuat beberapa pocket untuk menyimpan aset lebih banyak.",
+  "acknowledgment.check": "Saya mengerti"
 }
