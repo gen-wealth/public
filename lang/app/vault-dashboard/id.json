@@ -22,6 +22,7 @@
 
   "pocketsWidget.title": "Kelola Pocket",
   "pocketsWidget.loading": "Mencari pocket di dalam vault",
+  "pocketsWidget.action": "Tambah pocket",
   "pocketsWidget.action1": "Deposit",
   "pocketsWidget.action2": "Penarikan",
   "pocketsWidget.action3": "Mint kunci pocket",

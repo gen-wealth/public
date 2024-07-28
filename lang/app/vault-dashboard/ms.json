@@ -22,6 +22,7 @@
 
   "pocketsWidget.title": "Manage Pockets",
   "pocketsWidget.loading": "Looking for pockets in the vault",
+  "pocketsWidget.action": "Add pocket",
   "pocketsWidget.action1": "Deposit",
   "pocketsWidget.action2": "Withdraw",
   "pocketsWidget.action3": "Mint pocket key",
