@@ -1,20 +1,20 @@
 {
-  "welcome": "Welcome",
-  "welcomeMessage": "Here, you can create a vault—a secure space to store your assets and set a deadline. Assets stored in the vault can only be redeemed after the deadline has passed, and only by individuals who possess the corresponding pocket keys.",
+  "welcome": "Halo",
+  "welcomeMessage": "Di sini Anda dapat membuat vault, tempat untuk menyimpan aset dan menetapkan deadline. Aset yang disimpan di dalam vault hanya dapat diklaim setelah deadline berlalu, dan hanya oleh orang yang memiliki kunci pocket yang sesuai.",
 
-  "welcome.action1": "Create vault",
+  "welcome.action1": "Buat vault",
 
-  "selectKey": "Select Key",
-  "selectKey.loading": "Looking for key tokens in your wallet",
-  "selectKey.none": "It seems that you don't have any key token{tooltip}{br}{createAvault} or {recoverAvault} instead?",
-  "selectKey.none.createVault": "Create a vault",
-  "selectKey.none.recoverVault": "Recover a vault",
-  "selectKey.searchResultNone": "No matching key token name",
+  "selectKey": "Pilih Kunci",
+  "selectKey.loading": "Mencari token kunci di wallet",
+  "selectKey.none": "Sepertinya Anda tidak memiliki token kunci{tooltip}{br}{createAvault} atau {recoverAvault}?",
+  "selectKey.none.createVault": "Buat Vault",
+  "selectKey.none.recoverVault": "Pulihkan Vault",
+  "selectKey.searchResultNone": "Tidak ada nama token kunci yang cocok",
 
-  "insertkey": "Insert key",
-  "enterVault": "Enter vault",
-  "enterPocket": "Enter pocket",
-  "enteringDashboard": "Entering dashboard",
+  "insertkey": "Masukkan kunci",
+  "enterVault": "Masuk ke vault",
+  "enterPocket": "Masuk ke pocket",
+  "enteringDashboard": "Memasuki dasbor",
 
-  "or": "or"
+  "or": "atau"
 }
