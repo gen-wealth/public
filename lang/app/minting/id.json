@@ -1,12 +1,12 @@
 {
   "mint": "Mint",
-  "mintVaultKey": "Mint a vault key and send it to the following address:",
-  "mintPocketKey": "Mint a pocket key and send it to the following address:",
-  "mintPocketKey.hint": "HINT: The destination address is typically the beneficiary address.",
+  "mintVaultKey": "Mint kunci vault dan kirim ke alamat tujuan:",
+  "mintPocketKey": "Mint kunci pocket dan kirim ke alamat tujuan:",
+  "mintPocketKey.hint": "PETUNJUK: Alamat tujuan biasanya adalah alamat penerima manfaat.",
 
-  "x.mustSetDestinationAddress": "Set a destination address!",
-  "x.invalidBurnAmount": "Invalid burn amount!",
-  "x.exceedMaxAvailableAmount": "The maximum available amount exceeded!",
+  "x.mustSetDestinationAddress": "Isi alamat tujuan!",
+  "x.invalidBurnAmount": "Jumlah burn tidak valid!",
+  "x.exceedMaxAvailableAmount": "Jumlah maksimum yang tersedia terlampaui!",
 
   "burn": "Burn"
 }
