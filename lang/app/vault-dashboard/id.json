@@ -1,51 +1,51 @@
 {
-  "countdownWidget.action1": "Postpone deadline",
-  "countdownWidget.action2": "Manage stake",
-  "countdownWidget.action3": "Mint vault key",
-  "countdownWidget.action4": "Vault settings",
+  "countdownWidget.action1": "Tunda deadline",
+  "countdownWidget.action2": "Kelola stake",
+  "countdownWidget.action3": "Mint kunci vault",
+  "countdownWidget.action4": "Pengaturan vault",
 
-  "postponeDeadline.newDeadline": "NEW DEADLINE: {deadline}",
-  "postponeDeadline.none": "Select a value!",
+  "postponeDeadline.newDeadline": "DEADLINE BARU: {deadline}",
+  "postponeDeadline.none": "Pilih rentang waktu!",
 
-  "mintVaultKey.loading": "Counting vault key tokens in your wallet",
-  "mintPocketKey.loading": "Looking for the pocket key tokens in your wallet",
+  "mintVaultKey.loading": "Menghitung token kunci vault di dalam wallet",
+  "mintPocketKey.loading": "Mencari token kunci pocket di dalam wallet",
 
-  "mintVaultKey.burnWarning": "You will be disconnected and may lose access to the vault from this wallet. You can reconnect using a wallet that holds a vault key.",
-  "mintVaultKey.burnHint": "This action will NOT delete your Vault from the Blockchain",
-  "mintPocketKey.burnHint": "This action will NOT delete the Pocket from your Vault",
+  "mintVaultKey.burnWarning": "Anda akan keluar dari aplikasi dan mungkin kehilangan akses ke vault dari wallet ini. Anda dapat terhubung kembali menggunakan wallet yang memiliki kunci vault.",
+  "mintVaultKey.burnHint": "Aksi ini TIDAK akan menghapus Vault dari Blockchain",
+  "mintPocketKey.burnHint": "Tindakan ini TIDAK akan menghapus Pocket dari Vault",
 
-  "vaultBalance": "Vault Balance",
-  "vaultBalance.desc": "Total deposited ADA across all Pockets",
-  "vaultBalance.action1": "Show all tokens",
+  "vaultBalance": "Saldo Vault",
+  "vaultBalance.desc": "Total ADA dari semua Pocket",
+  "vaultBalance.action1": "Tampilkan semua token",
 
-  "allTokens.title": "All Tokens across All Pockets",
+  "allTokens.title": "Semua Token dari Semua Pocket",
 
-  "pocketsWidget.title": "Manage Pockets",
-  "pocketsWidget.loading": "Looking for pockets in the vault",
+  "pocketsWidget.title": "Kelola Pocket",
+  "pocketsWidget.loading": "Mencari pocket di dalam vault",
   "pocketsWidget.action1": "Deposit",
-  "pocketsWidget.action2": "Withdraw",
-  "pocketsWidget.action3": "Mint pocket key",
-  "pocketsWidget.action4": "Pocket settings",
+  "pocketsWidget.action2": "Penarikan",
+  "pocketsWidget.action3": "Mint kunci pocket",
+  "pocketsWidget.action4": "Pengaturan pocket",
 
-  "depositTokens.loading": "Gathering assets information from your wallet",
-  "withdrawTokens.loading": "Gathering assets information from the vault",
+  "depositTokens.loading": "Mengumpulkan informasi aset dari wallet",
+  "withdrawTokens.loading": "Mengumpulkan informasi aset dari vault",
 
-  "depositTokens.note": "Due to the maximum transaction size limit imposed by the blockchain, each pocket can only store up to 6 distinct token types including ADA.",
-  "depositTokens.note.short": "You can only store up to 6 distinct token types per pocket including ADA",
+  "depositTokens.note": "Dikarenakan oleh batas maksimal ukuran transaksi yang diberlakukan oleh blockchain maka setiap pocket hanya dapat menyimpan hingga 6 jenis token yang berbeda termasuk ADA.",
+  "depositTokens.note.short": "Anda hanya dapat menyimpan hingga 6 jenis token yang berbeda per pocket termasuk ADA",
 
-  "depositTokens.info": "A minimum amount of {minADA} ADA is required to attach a smart contract script.",
-  "depositTokens.info.full": "{infoMinADA} Your ADA is not locked and can be withdrawn later.",
+  "depositTokens.info": "Jumlah minimal {minADA} ADA diperlukan untuk melampirkan script smart contract.",
+  "depositTokens.info.full": "{infoMinADA} ADA tidak terkunci dan dapat ditarik sewaktu-waktu.",
 
-  "withdrawTokens.info": "A certain amount of ADA may be required to re-attach the smart contract script and cover the transaction fee.",
+  "withdrawTokens.info": "Sejumlah ADA mungkin diperlukan untuk melampirkan kembali script smart contract dan membayar biaya transaksi.",
 
-  "depositTokens.hint": "HINT: Make sure to leave enough ADA to cover the network fee to prevent transaction failure.",
-  "depositTokens.warn": "The transaction might fail to submit.",
+  "depositTokens.hint": "PETUNJUK: Pastikan untuk meninggalkan cukup ADA untuk membayar biaya jaringan untuk menghindari transaksi gagal.",
+  "depositTokens.warn": "Transaksi mungkin akan gagal.",
 
-  "depositTokens.warn.depositVaultKey": "You are about to deposit this vault's key token(s)—you may lose access to the vault.",
+  "depositTokens.warn.depositVaultKey": "Anda sedang akan mendeposit token kunci vault ini. Anda mungkin akan kehilangan akses ke vault.",
 
-  "depositTokens.none": "Nothing to Deposit",
-  "withdrawTokens.none": "Nothing to Withdraw",
+  "depositTokens.none": "Tidak ada yang dapat didepositkan",
+  "withdrawTokens.none": "Tidak ada yang dapat ditarik",
 
-  "x.invalidTokenAmount": "Invalid {token} amount!",
-  "x.exceedMaxAvailableTokenAmount": "{amount} {token} exceeds the maximum available amount!"
+  "x.invalidTokenAmount": "Jumlah {token} tidak valid!",
+  "x.exceedMaxAvailableTokenAmount": "{amount} {token} melebihi jumlah maksimal yang tersedia!"
 }

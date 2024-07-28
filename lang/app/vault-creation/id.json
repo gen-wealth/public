@@ -8,7 +8,7 @@
   "vaultName.tooltip": "Nama Vault akan digunakan sebagai nama token kunci vault.",
 
   "initialDeadline.label": "Deadline awal",
-  "initialDeadline.tooltip": "Deadline Awal menentukan waktu mula-mula aset yang disimpan dapat diklaim. Anda dapat menunda deadline dari waktu ke waktu melalui dasbor vault nanti.",
+  "initialDeadline.tooltip": "Deadline Awal menentukan waktu mula-mula aset yang disimpan dapat diklaim. Anda dapat menunda deadline dari waktu ke waktu melalui dasbor.",
   "initialDeadline.start.mainnet": "sejak hari ini",
   "initialDeadline.start.testnet": "sejak sekarang",
 
