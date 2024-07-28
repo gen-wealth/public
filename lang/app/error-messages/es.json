@@ -1,0 +1,32 @@
+{
+  "x.networkMustBeMainnet": "Please set your wallet network to mainnet.",
+  "x.networkMustBeTestnet": "Invalid wallet network: [mainnet]",
+
+  "x.uninitializedCardano": "Uninitialized Cardano",
+  "x.uninitializedLucid": "Uninitialized Lucid",
+
+  "x.emptyWallet": "Empty Wallet",
+  "x.emptyPocket": "Empty Pocket",
+
+  "x.invalidToken": "Invalid Token",
+  "x.invalidFeeToken": "Invalid Fee Token",
+  "x.invalidVaultName": "Invalid Vault Name",
+  "x.invalidPocketName": "Invalid Pocket Name",
+  "x.invalidVaultAddress": "Invalid Vault Address {vaultAddress}",
+
+  "x.errorPleaseRetry": "{error} {pleaseRetry}",
+  "x.pleaseWait": "If you have just created the vault, please wait until the key is minted into your wallet and then try again.",
+  "x.tryAgain": "Please try again later.",
+
+  "x.foundNoKey": "Found no {keyName} key in your wallet.",
+  "x.foundNoSpendingScript": "Found no spending script.",
+  "x.foundNoMetadata": "Found no metadata.",
+  "x.foundNoDatum": "Found no datum.",
+  "x.foundNoUTxO": "Found no UTxO",
+
+  "x.adaHandleError": "ADA Handle {error}",
+  "x.adaHandleBlank": "Blank Handle Name",
+
+  "x.getLatestBlockFailure": "Failed to get the latest block time.",
+  "x.possiblyInvalidNetworkException": "Possibly invalid network. Are you sure you're connected to the correct network? Or please check your internet connetion."
+}

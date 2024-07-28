@@ -1,0 +1,8 @@
+{
+  "vaultRecovery": "Vault Recovery",
+  "vaultRecovery.desc": "Here, you can regain access to your vault by minting a vault key using the vault address. Only the wallet address that was connected during the vault creation process is authorized to perform this action.",
+
+  "vaultRecovery.action1": "Recover vault",
+
+  "vaultRecoveryFailure": "Vault recovery failed: Please ensure the vault address is correct and that you are connected with the wallet address used during the vault creation process."
+}

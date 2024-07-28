@@ -1,0 +1,19 @@
+{
+  "pocketSettings": "Pocket Settings",
+  "pocketSettings.desc": "Here, you can rename the pocket, as well as view its creation time and Policy ID",
+
+  "pocketSettings.action1": "Update pocket",
+  "pocketSettings.action2": "Delete pocket",
+
+  "renamePocket.label": "Rename pocket",
+  "renamePocket.tooltip": "This will NOT Rename previously minted pocket key token(s). To update its name, mint a new pocket key token after updating the pocket.",
+
+  "creationTime.label": "Created at",
+  "creationTime.tooltip": "The creation time of the pocket.",
+
+  "pocketPolicy.label": "Policy ID",
+  "pocketPolicy.tooltip": "The Policy ID of the pocket.",
+
+  "pocketDeletion.confirmPocketDeletion": "Confirm Pocket Deletion",
+  "pocketDeletion.warn": "Any previously minted pocket key tokens that are currently in circulation and associated with this pocket, if any, will become orphaned and lose their ability to redeem any pockets."
+}

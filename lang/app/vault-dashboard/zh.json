@@ -1,0 +1,51 @@
+{
+  "countdownWidget.action1": "Postpone deadline",
+  "countdownWidget.action2": "Manage stake",
+  "countdownWidget.action3": "Mint vault key",
+  "countdownWidget.action4": "Vault settings",
+
+  "postponeDeadline.newDeadline": "NEW DEADLINE: {deadline}",
+  "postponeDeadline.none": "Select a value!",
+
+  "mintVaultKey.loading": "Counting vault key tokens in your wallet",
+  "mintPocketKey.loading": "Looking for the pocket key tokens in your wallet",
+
+  "mintVaultKey.burnWarning": "You will be disconnected and may lose access to the vault from this wallet. You can reconnect using a wallet that holds a vault key.",
+  "mintVaultKey.burnHint": "This action will NOT delete your Vault from the Blockchain",
+  "mintPocketKey.burnHint": "This action will NOT delete the Pocket from your Vault",
+
+  "vaultBalance": "Vault Balance",
+  "vaultBalance.desc": "Total deposited ADA across all Pockets",
+  "vaultBalance.action1": "Show all tokens",
+
+  "allTokens.title": "All Tokens across All Pockets",
+
+  "pocketsWidget.title": "Manage Pockets",
+  "pocketsWidget.loading": "Looking for pockets in the vault",
+  "pocketsWidget.action1": "Deposit",
+  "pocketsWidget.action2": "Withdraw",
+  "pocketsWidget.action3": "Mint pocket key",
+  "pocketsWidget.action4": "Pocket settings",
+
+  "depositTokens.loading": "Gathering assets information from your wallet",
+  "withdrawTokens.loading": "Gathering assets information from the vault",
+
+  "depositTokens.note": "Due to the maximum transaction size limit imposed by the blockchain, each pocket can only store up to 6 distinct token types including ADA.",
+  "depositTokens.note.short": "You can only store up to 6 distinct token types per pocket including ADA",
+
+  "depositTokens.info": "A minimum amount of {minADA} ADA is required to attach a smart contract script.",
+  "depositTokens.info.full": "{infoMinADA} Your ADA is not locked and can be withdrawn later.",
+
+  "withdrawTokens.info": "A certain amount of ADA may be required to re-attach the smart contract script and cover the transaction fee.",
+
+  "depositTokens.hint": "HINT: Make sure to leave enough ADA to cover the network fee to prevent transaction failure.",
+  "depositTokens.warn": "The transaction might fail to submit.",
+
+  "depositTokens.warn.depositVaultKey": "You are about to deposit this vault's key token(s)—you may lose access to the vault.",
+
+  "depositTokens.none": "Nothing to Deposit",
+  "withdrawTokens.none": "Nothing to Withdraw",
+
+  "x.invalidTokenAmount": "Invalid {token} amount!",
+  "x.exceedMaxAvailableTokenAmount": "{amount} {token} exceeds the maximum available amount!"
+}

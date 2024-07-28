@@ -1,0 +1,9 @@
+{
+  "connectWallet": "Connect wallet",
+  "connectWallet.desc": "Connect your wallet to securely access your crypto inheritance assets on our platform. This process enables you to interact with your vaults and manage the pockets as well as the contents within.",
+
+  "connectingWallet": "Connecting wallet",
+  "connectingWallet.none": "It looks like you don't have any Cardano wallet installed.",
+
+  "walletSuggestions": "Try one of these..."
+}

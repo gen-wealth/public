@@ -1,0 +1,127 @@
+{
+  "genWealth": "GenWealth",
+  "tagLine": "The Crypto Inheritance Protocol",
+
+  "lang.en": "English",
+  "lang.es": "Spanish",
+  "lang.fr": "French",
+  "lang.id": "Indonesian",
+  "lang.ja": "Japanese",
+  "lang.ko": "Korean",
+  "lang.ms": "Malay",
+  "lang.nl": "Dutch",
+  "lang.pt": "Portuguese",
+  "lang.ru": "Russian",
+  "lang.zh": "Chinese",
+
+  "navBar.menu1": "Our Service",
+  "navBar.menu2": "Roadmap",
+  "navBar.menu3": "About Us",
+  "navBar.menu4": "Contact Us",
+
+  "navBar.dApp.menu1": "Home",
+  "navBar.dApp.menu2": "Create Vault",
+  "navBar.dApp.menu3": "Help",
+
+  "navBar.action1": "View docs",
+
+  "page.home": "Home",
+  "page.vaultDashboard": "Vault Dashboard",
+  "page.vaultCreation": "Vault Creation",
+  "page.vaultRecovery": "Vault Recovery",
+  "page.vaultStaking": "Staking",
+  "page.vaultSettings": "Settings",
+  "page.pocketDashboard": "Pocket Dashboard",
+  "page.pocketCreation": "Pocket Creation",
+  "page.pocketSettings": "Pocket Settings",
+
+  "notificationHistory": "Notification History",
+  "notificationHistory.none": "No new notification",
+
+  "vault": "vault",
+  "vaults": "vaults",
+  "vaultKey": "vault key",
+  "vaultKeys": "vault keys",
+
+  "pocket": "pocket",
+  "pockets": "pockets",
+  "pocketKey": "pocket key",
+  "pocketKeys": "pocket keys",
+
+  "vaultAddress.label": "Vault address",
+  "vaultAddress.tooltip": "This is your vault address.",
+
+  "selectPocket": "Select a Pocket",
+
+  "here": "here",
+  "showMore": "show more",
+  "showLess": "show less",
+  "note": "note",
+  "ad": "ad",
+
+  "searchBox.placeholderText": "search...",
+
+  "dialog.hint": "HINT: {hintContents}",
+  "dialog.hintContents": "You can also press {closeKey} to close the dialog.",
+  "dialog.closeKey": "ESC",
+
+  "clearAll": "Clear all",
+  "recoverVault": "Recover vault",
+
+  "all": "All",
+  "ok": "OK",
+  "cancel": "Cancel",
+  "close": "Close",
+  "yes": "Yes",
+  "no": "No",
+  "accept": "Accept",
+  "deny": "Deny",
+  "confirm": "Confirm",
+  "back": "Back",
+  "disconnect": "Disconnect",
+  "warning": "Warning",
+  "pleaseWait": "Please wait",
+
+  "report.incorrect": "Incorrect?",
+  "report": "Report to us",
+
+  "action.createVault": "Create Vault",
+  "action.createPocket": "Create Pocket",
+  "action.updateVault": "Update Vault",
+  "action.updatePocket": "Update Pocket",
+  "action.postponeDeadline": "Postpone Deadline",
+  "action.deposit": "Deposit",
+  "action.withdraw": "Withdraw",
+  "action.mintVaultKey": "Mint Vault Key",
+  "action.burnVaultKey": "Burn Vault Key",
+  "action.mintPocketKey": "Mint Pocket Key",
+  "action.burnPocketKey": "Burn Pocket Key",
+  "action.stakeRegistration": "Stake Registration",
+  "action.stakeDeregistration": "Stake Deregistration",
+  "action.stakePoolDelegate": "Delegate",
+  "action.stakePoolRedelegate": "Redelegate",
+  "action.withdrawStakeRewards": "Withdraw Stake Rewards",
+  "action.redeemPocket": "Redeem Pocket",
+  "action.deletePocket": "Delete Pocket",
+  "action.recoverVault": "Recover Vault",
+
+  "lengthOfMaxLength": "{length}{of}{maxLength}",
+  "ofAvailableAmount": "{of} {amount}",
+  "ofCharacter": "/",
+
+  "actionTxHash": "{action} TxHash: {txHash} {copyButton}",
+  "assetFingerprint": "Fingerprint: {fingerprint} {copyButton}",
+
+  "copiedToClipboard": "{label}: {text}",
+  "copiedToClipboard.label": "Copied to clipboard",
+
+  "noteMessage": "NOTE: {message}",
+  "warningMessage": "WARNING: {message}",
+  "errorMessage": "ERROR: {message}",
+  "nothingToUpdate": "Nothing to Update",
+
+  "cookieConsent": "We use {cookies} to remember your preferences, such as your choice of theme and language. This helps us enhance your browsing experience. We neither collect nor transmit any personal information through this process.",
+  "cookies": "cookies",
+
+  "copyright": "Copyright © 2024 - All rights reserved"
+}

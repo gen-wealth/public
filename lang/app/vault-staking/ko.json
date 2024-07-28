@@ -1,0 +1,51 @@
+{
+  "stakeVault": "Stake Vault",
+  "stakeVault.desc": "Here, you can manage your vault staking actions, including stake registration/deregistration, stake delegation/redelegation, and stake rewards withdrawal.{br}{readMore}",
+  "stakeVault.readMore": "Read more about staking here {openInNewIcon}",
+
+  "epochInfo.title": "Current Epoch",
+  "epochInfo.epoch": "Epoch",
+  "epochInfo.startTime": "Start Time",
+  "epochInfo.endTime": "End Time",
+  "epochInfo.firstBlockTime": "First Block Time",
+  "epochInfo.lastBlockTime": "Last Block Time",
+  "epochInfo.blockCount": "Block Count",
+  "epochInfo.transactionCount": "Transaction Count",
+  "epochInfo.output": "Output",
+  "epochInfo.fees": "Fees",
+  "epochInfo.activeStake": "Active Stake",
+
+  "stakeRegistration.register": "Register",
+  "stakeRegistration.deregister": "Deregister",
+  "stakeRegistration.confirmRegistration": "Confirm Staking Registration",
+  "stakeRegistration.confirmDeregistration": "Confirm Staking Deregistration",
+  "stakeRegistration.confirmRegistrationQuestion": "Are you sure you want to register?",
+  "stakeRegistration.confirmDeregistrationQuestion": "Are you sure you want to deregister?",
+
+  "stakeInfo.title": "Stake Info",
+  "stakeInfo.stakeAddress": "Stake Address",
+  "stakeInfo.activeEpoch": "Active Epoch",
+  "stakeInfo.controlledAmount": "Controlled Amount",
+  "stakeInfo.rewardsSum": "Rewards Sum",
+  "stakeInfo.withdrawalsSum": "Withdrawals Sum",
+  "stakeInfo.reservesSum": "Reserves Sum",
+  "stakeInfo.treasurySum": "Treasury Sum",
+  "stakeInfo.withdrawableAmount": "Withdrawable Amount",
+  "stakeInfo.withdraw": "Withdraw",
+  "stakeInfo.poolID": "Pool ID",
+  "stakeInfo.status": "STATUS: {status}",
+  "stakeInfo.undelegated": "Undelegated yet!",
+  "stakeInfo.statusUndelegated": "Delegate to a pool from the list below.",
+
+  "stakePools.title": "Pool List",
+  "stakePools.dataByColon": "Data by:",
+  "stakePools.alreadyDelegating": "You are already delegating to {poolName}",
+  "stakePools.confirmPoolDelegation": "Confirm Pool Delegation",
+  "stakePools.confirmPoolRedelegation": "Confirm Pool Redelegation",
+  "stakePools.confirmPoolDelegationColon": "You are about to delegate your vault to:",
+  "stakePools.confirmPoolRedelegationColon": "You are about to redelegate your vault to:",
+
+  "poolDetails.selectPool": "Select a Pool",
+
+  "x.unregisteredStakeAccount": "Failed to get account stake Registration Status. Possibly unregistered yet."
+}
