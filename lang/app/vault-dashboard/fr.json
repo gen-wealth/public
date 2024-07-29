@@ -48,5 +48,6 @@
   "withdrawTokens.none": "Nothing to Withdraw",
 
   "x.invalidTokenAmount": "Invalid {token} amount!",
-  "x.exceedMaxAvailableTokenAmount": "{amount} {token} exceeds the maximum available amount!"
+  "x.exceedMaxAvailableTokenAmount": "{amount} {token} exceeds the maximum available amount!",
+  "x.vaultUnlocked": "Vault unlocked! Postpone deadline first to secure your vault."
 }

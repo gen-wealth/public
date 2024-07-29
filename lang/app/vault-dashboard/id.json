@@ -48,5 +48,6 @@
   "withdrawTokens.none": "Tidak ada yang dapat ditarik",
 
   "x.invalidTokenAmount": "Jumlah {token} tidak valid!",
-  "x.exceedMaxAvailableTokenAmount": "{amount} {token} melebihi jumlah maksimal yang tersedia!"
+  "x.exceedMaxAvailableTokenAmount": "{amount} {token} melebihi jumlah maksimal yang tersedia!",
+  "x.vaultUnlocked": "Vault terbuka! Tunda deadline terlebih dahulu untuk mengamankan vault."
 }
