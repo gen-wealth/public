@@ -61,8 +61,7 @@
 
   "searchBox.placeholderText": "search...",
 
-  "dialog.hint": "HINT: {hintContents}",
-  "dialog.hintContents": "You can also press {closeKey} to close the dialog.",
+  "dialog.hint": "You can also press {closeKey} to close the dialog.",
   "dialog.closeKey": "ESC",
 
   "clearAll": "Clear all",
@@ -115,6 +114,7 @@
   "copiedToClipboard": "{label}: {text}",
   "copiedToClipboard.label": "Copied to clipboard",
 
+  "hintMessage": "HINT: {message}",
   "noteMessage": "NOTE: {message}",
   "warningMessage": "WARNING: {message}",
   "errorMessage": "ERROR: {message}",

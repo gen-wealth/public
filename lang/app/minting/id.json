@@ -2,7 +2,7 @@
   "mint": "Mint",
   "mintVaultKey": "Mint kunci vault dan kirim ke alamat tujuan:",
   "mintPocketKey": "Mint kunci pocket dan kirim ke alamat tujuan:",
-  "mintPocketKey.hint": "PETUNJUK: Alamat tujuan biasanya adalah alamat penerima manfaat.",
+  "mintPocketKey.hint": "Alamat tujuan biasanya adalah alamat penerima manfaat.",
 
   "x.mustSetDestinationAddress": "Isi alamat tujuan!",
   "x.invalidBurnAmount": "Jumlah burn tidak valid!",

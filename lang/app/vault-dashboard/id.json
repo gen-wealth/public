@@ -39,7 +39,7 @@
 
   "withdrawTokens.info": "Sejumlah ADA mungkin diperlukan untuk melampirkan kembali script smart contract dan membayar biaya transaksi.",
 
-  "depositTokens.hint": "PETUNJUK: Pastikan untuk meninggalkan cukup ADA untuk membayar biaya jaringan untuk menghindari transaksi gagal.",
+  "depositTokens.hint": "Pastikan untuk meninggalkan cukup ADA untuk membayar biaya jaringan demi menghindari transaksi gagal.",
   "depositTokens.warn": "Transaksi mungkin akan gagal.",
 
   "depositTokens.warn.depositVaultKey": "Anda sedang akan mendeposit token kunci vault ini. Anda mungkin akan kehilangan akses ke vault.",

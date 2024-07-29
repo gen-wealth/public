@@ -39,7 +39,7 @@
 
   "withdrawTokens.info": "A certain amount of ADA may be required to re-attach the smart contract script and cover the transaction fee.",
 
-  "depositTokens.hint": "HINT: Make sure to leave enough ADA to cover the network fee to prevent transaction failure.",
+  "depositTokens.hint": "Make sure to leave enough ADA to cover the network fee and to prevent transaction failure.",
   "depositTokens.warn": "The transaction might fail to submit.",
 
   "depositTokens.warn.depositVaultKey": "You are about to deposit this vault's key token(s)—you may lose access to the vault.",

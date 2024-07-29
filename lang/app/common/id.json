@@ -61,8 +61,7 @@
 
   "searchBox.placeholderText": "cari...",
 
-  "dialog.hint": "PETUNJUK: {hintContents}",
-  "dialog.hintContents": "Anda juga dapat menekan tombol {closeKey} untuk menutup dialog.",
+  "dialog.hint": "Anda juga dapat menekan tombol {closeKey} untuk menutup dialog.",
   "dialog.closeKey": "ESC",
 
   "clearAll": "Hapus semua",
@@ -115,6 +114,7 @@
   "copiedToClipboard": "{label}: {text}",
   "copiedToClipboard.label": "Disalin ke clipboard",
 
+  "hintMessage": "PETUNJUK: {message}",
   "noteMessage": "CATATAN: {message}",
   "warningMessage": "PERINGATAN: {message}",
   "errorMessage": "KESALAHAN: {message}",
