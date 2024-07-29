@@ -3,7 +3,8 @@
   "tagLine": "The Crypto Inheritance Protocol",
 
   "alertUsers": "",
-  "alertColor": "info",
+  "alertUsers.color": "warning",
+  "alertUsers.timeout": "0",
 
   "notificationHistory": "Notification History",
   "notificationHistory.none": "No new notification",

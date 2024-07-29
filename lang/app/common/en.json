@@ -2,7 +2,7 @@
   "genWealth": "GenWealth",
   "tagLine": "The Crypto Inheritance Protocol",
 
-  "alertUsers": "TEST NOTIFICATION: Welcome to the new Dapp! There will be a scheduled maintenance for the entire weekend",
+  "alertUsers": "",
   "alertUsers.color": "warning",
   "alertUsers.timeout": "0",
 
