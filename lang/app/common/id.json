@@ -2,6 +2,12 @@
   "genWealth": "GenWealth",
   "tagLine": "Protokol Pewarisan Crypto",
 
+  "alertUsers": "",
+  "alertColor": "info",
+
+  "notificationHistory": "Riwayat Notifikasi",
+  "notificationHistory.none": "Tidak ada notifikasi baru",
+
   "lang.en": "Inggris",
   "lang.es": "Spanyol",
   "lang.fr": "Perancis",
@@ -34,9 +40,6 @@
   "page.pocketDashboard": "Dasbor Pocket",
   "page.pocketCreation": "Buat Pocket",
   "page.pocketSettings": "Pengaturan Pocket",
-
-  "notificationHistory": "Riwayat Notifikasi",
-  "notificationHistory.none": "Tidak ada notifikasi baru",
 
   "vault": "vault",
   "vaults": "vaults",

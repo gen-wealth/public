@@ -2,6 +2,12 @@
   "genWealth": "GenWealth",
   "tagLine": "The Crypto Inheritance Protocol",
 
+  "alertUsers": "",
+  "alertColor": "info",
+
+  "notificationHistory": "Notification History",
+  "notificationHistory.none": "No new notification",
+
   "lang.en": "English",
   "lang.es": "Spanish",
   "lang.fr": "French",
@@ -34,9 +40,6 @@
   "page.pocketDashboard": "Pocket Dashboard",
   "page.pocketCreation": "Pocket Creation",
   "page.pocketSettings": "Pocket Settings",
-
-  "notificationHistory": "Notification History",
-  "notificationHistory.none": "No new notification",
 
   "vault": "vault",
   "vaults": "vaults",
