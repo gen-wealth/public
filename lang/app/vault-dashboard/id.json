@@ -12,7 +12,7 @@
 
   "mintVaultKey.burnWarning": "Anda akan keluar dari aplikasi dan mungkin kehilangan akses ke vault dari wallet ini. Anda dapat terhubung kembali menggunakan wallet yang memiliki kunci vault.",
   "mintVaultKey.burnHint": "Aksi ini TIDAK akan menghapus Vault dari Blockchain",
-  "mintPocketKey.burnHint": "Tindakan ini TIDAK akan menghapus Pocket dari Vault",
+  "mintPocketKey.burnHint": "Aksi ini TIDAK akan menghapus Pocket dari Vault",
 
   "vaultBalance": "Saldo Vault",
   "vaultBalance.desc": "Total ADA dari semua Pocket",
