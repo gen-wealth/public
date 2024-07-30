@@ -3,7 +3,7 @@
   "connectWallet.desc": "Hubungkan wallet Anda untuk mengelola aset kripto Anda di platform kami. Proses ini memungkinkan Anda berinteraksi dengan vault dan mengelola pocket beserta isinya.",
 
   "connectingWallet": "Menghubungkan wallet",
-  "connectingWallet.none": "Sepertinya tidak ada wallet Cardano yang terinstall.",
+  "connectingWallet.none": "Tidak ditemukan wallet Cardano terinstall.",
 
-  "walletSuggestions": "Coba wallet dari daftar di sini..."
+  "walletSuggestions": "Coba install wallet dari daftar di sini..."
 }

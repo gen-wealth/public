@@ -9,7 +9,7 @@
   "selectKey.none": "Sepertinya Anda tidak memiliki token kunci{tooltip}{br}{createAvault} atau {recoverAvault}?",
   "selectKey.none.createVault": "Buat Vault",
   "selectKey.none.recoverVault": "Pulihkan Vault",
-  "selectKey.searchResultNone": "Tidak ada nama token kunci yang cocok",
+  "selectKey.searchResultNone": "Tidak ditemukan nama token kunci yang cocok",
 
   "insertkey": "Masukkan kunci",
   "enterVault": "Masuk ke vault",
