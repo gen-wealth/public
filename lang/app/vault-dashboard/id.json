@@ -44,8 +44,8 @@
 
   "depositTokens.warn.depositVaultKey": "Anda sedang akan mendeposit token kunci vault ini. Anda mungkin akan kehilangan akses ke vault.",
 
-  "depositTokens.none": "Tidak ada yang dapat didepositkan",
-  "withdrawTokens.none": "Tidak ada yang dapat ditarik",
+  "depositTokens.none": "Tidak ada yang dideposit",
+  "withdrawTokens.none": "Tidak ada yang ditarik",
 
   "x.invalidTokenAmount": "Jumlah {token} tidak valid!",
   "x.exceedMaxAvailableTokenAmount": "{amount} {token} melebihi jumlah maksimal yang tersedia!",
