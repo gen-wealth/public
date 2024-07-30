@@ -7,8 +7,8 @@
   "selectKey": "Select Key",
   "selectKey.loading": "Looking for key tokens in your wallet",
   "selectKey.none": "It seems that you don't have any key token{tooltip}{br}{createAvault} or {recoverAvault} instead?",
-  "selectKey.none.createVault": "Create a vault",
-  "selectKey.none.recoverVault": "Recover a vault",
+  "selectKey.none.activity1": "Create a vault",
+  "selectKey.none.activity2": "Recover a vault",
   "selectKey.searchResultNone": "No matching key token name",
 
   "insertkey": "Insert key",

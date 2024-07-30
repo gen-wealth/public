@@ -7,8 +7,8 @@
   "selectKey": "Pilih Kunci",
   "selectKey.loading": "Mencari token kunci di wallet",
   "selectKey.none": "Sepertinya Anda tidak memiliki token kunci{tooltip}{br}{createAvault} atau {recoverAvault}?",
-  "selectKey.none.createVault": "Buat Vault",
-  "selectKey.none.recoverVault": "Pulihkan Vault",
+  "selectKey.none.activity1": "Buat Vault",
+  "selectKey.none.activity2": "Pulihkan Vault",
   "selectKey.searchResultNone": "Tidak ditemukan nama token kunci yang cocok",
 
   "insertkey": "Masukkan kunci",
