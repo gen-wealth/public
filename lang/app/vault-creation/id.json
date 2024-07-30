@@ -10,7 +10,7 @@
   "initialDeadline.label": "Deadline awal",
   "initialDeadline.tooltip": "Deadline Awal menentukan waktu mula-mula aset yang disimpan dapat diklaim. Anda dapat menunda deadline dari waktu ke waktu melalui dasbor.",
   "initialDeadline.start.mainnet": "sejak hari ini",
-  "initialDeadline.start.testnet": "sejak sekarang",
+  "initialDeadline.start.testnet": "sejak saat ini",
 
   "selectIcon.label": "Pilih ikon",
   "selectIcon.tooltip": "Pilihan Ikon akan menentukan gambar token kunci vault.",

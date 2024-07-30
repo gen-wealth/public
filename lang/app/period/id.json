@@ -9,7 +9,7 @@
   "plusSc": "+{sc} detik",
 
   "initialDeadline": "deadline awal",
-  "currentDeadline": "deadline sekarang",
+  "currentDeadline": "deadline saat ini",
   "afterDeadline": "setelah deadline",
   "untilUnlocked": "sebelum terbuka",
   "unlocked": "terbuka",
