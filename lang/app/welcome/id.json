@@ -4,6 +4,12 @@
 
   "welcome.action1": "Buat vault",
 
+  "welcome.loadingMessage": "Memasuki aplikasi",
+  "welcome.loadingMessage.state1": "Mohon tunggu",
+  "welcome.loadingMessage.state2": "Menunggu pesan otentikasi",
+  "welcome.loadingMessage.state3": "Mohon tanda tangani pesan untuk memverifikasi akses",
+  "welcome.loadingMessage.state4": "Mempersiapkan tampilan",
+
   "selectKey": "Pilih Kunci",
   "selectKey.loading": "Mencari token kunci di wallet",
   "selectKey.none": "Sepertinya Anda tidak memiliki token kunci{tooltip}{br}{createAvault} atau {recoverAvault}?",

@@ -4,6 +4,12 @@
 
   "welcome.action1": "Create vault",
 
+  "welcome.loadingMessage": "Entering dApp",
+  "welcome.loadingMessage.state1": "Please wait",
+  "welcome.loadingMessage.state2": "Waiting for the authentication message",
+  "welcome.loadingMessage.state3": "Please sign the message to verify access",
+  "welcome.loadingMessage.state4": "Signing in",
+
   "selectKey": "Select Key",
   "selectKey.loading": "Looking for key tokens in your wallet",
   "selectKey.none": "It seems that you don't have any key token{tooltip}{br}{createAvault} or {recoverAvault} instead?",
