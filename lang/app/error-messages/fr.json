@@ -2,7 +2,7 @@
   "x.networkMustBeMainnet": "Please set your wallet network to mainnet.",
   "x.networkMustBeTestnet": "Invalid wallet network: [mainnet]",
 
-  "x.pleaseReconnect": "Please reconnect your wallet",
+  "x.pleaseReconnect": "Please reconnect your wallet.",
   "x.reauthenticationRequired": "Reauthentication Required",
 
   "x.uninitializedCardano": "Uninitialized Cardano",
