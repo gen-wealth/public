@@ -24,7 +24,7 @@
 
   "stakeInfo.title": "Info Stake",
   "stakeInfo.stakeAddress": "Alamat Stake",
-  "stakeInfo.activeEpoch": "Epoch Aktif",
+  "stakeInfo.activeEpoch": "Epoch Aktivasi",
   "stakeInfo.controlledAmount": "Jumlah yang Dikontrol",
   "stakeInfo.rewardsSum": "Jumlah Stake Rewards",
   "stakeInfo.withdrawalsSum": "Jumlah yang Sudah Ditarik",
