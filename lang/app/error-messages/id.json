@@ -2,6 +2,7 @@
   "x.networkMustBeMainnet": "Silakan atur jaringan wallet ke mainnet.",
   "x.networkMustBeTestnet": "Jaringan wallet tidak valid: [mainnet]",
 
+  "x.pleaseReconnect": "Mohon hubungkan wallet Anda kembali",
   "x.reauthenticationRequired": "Diperlukan Otentikasi Ulang",
 
   "x.uninitializedCardano": "Cardano belum terinisialisasi",
