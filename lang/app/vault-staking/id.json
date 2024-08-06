@@ -27,7 +27,7 @@
   "stakeInfo.activeEpoch": "Epoch Aktif",
   "stakeInfo.controlledAmount": "Jumlah yang Dikontrol",
   "stakeInfo.rewardsSum": "Jumlah Stake Rewards",
-  "stakeInfo.withdrawalsSum": "Jumlah yang Ditarik",
+  "stakeInfo.withdrawalsSum": "Jumlah yang Sudah Ditarik",
   "stakeInfo.reservesSum": "Jumlah Cadangan",
   "stakeInfo.treasurySum": "Jumlah Treasury",
   "stakeInfo.withdrawableAmount": "Jumlah yang Dapat Ditarik",
