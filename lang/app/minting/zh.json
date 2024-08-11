@@ -1,5 +1,6 @@
 {
   "mint": "Mint",
+  "mintToAddress.placeholderText": "addr... $ada_handle or cns.ada",
   "mintVaultKey": "Mint a vault key and send it to the following address:",
   "mintPocketKey": "Mint a pocket key and send it to the following address:",
   "mintPocketKey.hint": "The destination address is typically the beneficiary address.",

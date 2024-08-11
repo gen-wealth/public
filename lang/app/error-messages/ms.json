@@ -30,6 +30,9 @@
   "x.adaHandleError": "ADA Handle {error}",
   "x.adaHandleBlank": "Blank Handle Name",
 
+  "x.cardanoNameServiceError": "Cardano Name Service {error}",
+  "x.cardanoNameServiceBlank": "Blank Domain Name",
+
   "x.getLatestBlockFailure": "Failed to get the latest block time.",
   "x.possiblyInvalidNetworkException": "Possibly invalid network. Are you sure you're connected to the correct network? Or please check your internet connetion."
 }

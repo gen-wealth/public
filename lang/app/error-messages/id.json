@@ -30,6 +30,9 @@
   "x.adaHandleError": "Kesalahan ADA Handle {error}",
   "x.adaHandleBlank": "Nama Handle Kosong",
 
+  "x.cardanoNameServiceError": "Kesalahan Cardano Name Service {error}",
+  "x.cardanoNameServiceBlank": "Nama Domain Kosong",
+
   "x.getLatestBlockFailure": "Gagal mendapatkan block time terbaru.",
   "x.possiblyInvalidNetworkException": "Kemungkinan jaringan tidak valid. Apakah Anda yakin terhubung ke jaringan yang benar? Atau mohon periksa koneksi internet Anda."
 }
